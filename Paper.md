@@ -169,15 +169,20 @@ So the proposal is as follows: States, NGOs and Internation institutions come to
 
 
 
+## Governance model
 
 
-## (Decision making process)
+
+
+### Proposals
 
 Proposals - anyone can make a proposal, and only if that gains sufficient popularity among vote-holders, it proceeds to discussion. This filters irrelevant proposals early and thus ensures that each proposal that passes this line is worth looking at.
 
 ref & praise LF
 
 Discussion - during discussion phase proposals can be updated, commented, and alternative solutions proposed. In next phase the best alternative is voted upon, and afterwards a yes/no vote is decided.
+
+### Decision
 
 Voting power - all participants have X votes that they can split into infinite parts. For example, president of a state can keep it for himself (as in monarchies), or evenly distribute within its population (as in democracies). The same for NGOs - its up to them how to distribute the vote best. Wide distribution is welcome as it facilitates co-participation and therefore responsibility to humanity itself. These votes can be delegated or redelegated at any time whenever person thinks that another is more competent to use it than himself.
 
