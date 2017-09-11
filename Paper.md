@@ -12,11 +12,26 @@
 >
 > The Global Challenges  Foundation wants to challenge participants from all over the world to formulate alternatives to the present state of affairs – either by *complementing, strengthening and revising the present UN system*, or by *proposing completely new forms of governance*. The proposals should be drafted with the aim of *identifying* and, as far as possible, *preventing or minimizing challenges* of the kind mentioned above.
 
-# Abstract
+
+
+
+
+
+
+
+Abstract
+========================================================================================================================
 > 1000 words max
 
 
-# Description of the model
+
+
+
+
+
+
+Description of the model
+========================================================================================================================
 > Task (5500 words max)
 >
 > The participant must *design a governance model* able to effectively address the most pressing *threats and risks to humanity*. In other words, the task is not to come up with direct solutions to specific problems. Rather, it is to design a *general model for decision-making*, with the aim of *generating such solutions* and the *ability to do so*, and possessing the resources to *effectively implement them*.
@@ -29,6 +44,8 @@
 "No problem can be solved from the same level of consciousness that created it" by Albert Einstein.
 
 Since the end of WW2, through Cold War, invention of Computer and the rise of Internet, the world has changed drastically - both the problems humanity face and actors that can act upon it. To understand the whole picture, it's time to look from a fresh perspective. Indeed, the current world order has been in place for more than 3 centuries, so it will be exciting to expose its status quo and work with it within next five thousand words. Lets start with generalization beyond current order, introduction of a new perspective, and describtion of the task within the new context. Then author will finally propose a new governmance model and finish with a roadmap that is executable by tomorrow.
+
+
 
 
 ## World order - from Westphalian order to Neomedieval order    /    Beyond International order
@@ -105,6 +122,101 @@ Nevertheless, in context of emerging neomedievalism, the task is ambitious - to 
 
 
 
+## (Politics) Who is on the side with goal
+
+axiom: most of states are interested to do something.
+
+The first interesting conclusion from agent types is that only NGOs are directly and inheretly aligned with the given goal. Corporations and illicit groups are opponents, but states and international organizations are neutral.
+
+- *Illicit groups* are organized similar to corporations and seeks either profits or ideological goals, but by dirty means and within illegal industries that are directly opposed to goals for humanity - human trafficing, heavy drug cartels, mafia and etc. Those are opponents.
+
+- *Corporations* are primary profit-seekers, and thus logically would contribute to the only if that will increase their profits or at least won't harm it. Furthermore, these profits are distributed to special interests insteads of good for the whole humanity. Of course it would be easy to align goals with some of the corporations, but not all of them (for example try ending war without harming military industry, or slavery without harming human trafficing cartels), and lots of them are somewhere in the middle. Thus I would say that corporations aren't foes as long they don't hinder the given goals of humanity, but in the same time are not friends as their inherit motivation is not aligned with goals of humanity.
+
+- *NGOs* are the best friends. First, they are driven by goals of humanity as a core principle, in their own way in their own discipline. Obviously they have income (as well material donations and voluntary work) and expenses as corporations do, but we may say that they commit all profits towards humanity.  Understandably, their goals not always coincide with goals of nation-states or corporations - for example Red Cross provide healthcare to rebels in name of "Everyone has right to health" or internet activists makes freely available otherwise expensive scientific papers in name of "Information should be free". Obviously, there's a still ongoing discussion whenever that's legal (concept of nation-state) to aid enemy of nation-state, and the answer may vary from nation-state to nation-state. Or if that's legal to steal information to share it with humanity, or even if term "stealing" can be applied to information as nothing is lost in contrast to stealing resources. Also, even slavery once was legal. So let's assume that everything which advances goals of humanity and is in interests of nation-states will eventually be recognized as legal.
+
+- *States* are interesting. Theoretically it is a form how population organizes itself and should be concerned only about internal affairs, external security and wellbeing of state (whatever it means), but practically in literature there's divergent thought of what nation-state is about. But in practice corruption, populism and lobbying of special interests are prevailing problems in states that question the basic assumption that it cares first for its population. The good news is that state's goals are not in conflict with goals of humanity, but the bad news is that humanity isn't first priority of states.
+
+- *International institutions* have a clearly set formal that mostly is aligned or doesn't conflict with goals of humanity. Therefore internation institutions can be regarded as at least neutrals for the of humanity.
+
+
+The resulting enduser of given goals is humanity itself, so results should be owned by humanity and actions should be accountable to humanity - this implies transparency, sharing and co-participation.
+
+
+So the proposal is as follows: States, NGOs and Internation institutions come together "to the table of ABC". Corporations are ok to be around but doesn't have any formal voting power. The main idea is that NGOs do their calling for positive impact, states and other international institutions keep corporations in check to not commit negative impact, and everyone indirectly helps NGOs. Meanwhile ABC serves as a humanity's distributed platform for proposals, discussion and decision-making.
+
+
+
+
+## Governance model
+
+
+
+
+### Proposals
+
+Proposals - anyone can make a proposal, and only if that gains sufficient popularity among vote-holders, it proceeds to discussion. This filters irrelevant proposals early and thus ensures that each proposal that passes this line is worth looking at.
+
+ref & praise LF
+
+Discussion - during discussion phase proposals can be updated, commented, and alternative solutions proposed. In next phase the best alternative is voted upon, and afterwards a yes/no vote is decided.
+
+
+### Decision
+
+Voting power - all participants have X votes that they can split into infinite parts. For example, president of a state can keep it for himself (as in monarchies), or evenly distribute within its population (as in democracies). The same for NGOs - its up to them how to distribute the vote best. Wide distribution is welcome as it facilitates co-participation and therefore responsibility to humanity itself. These votes can be delegated or redelegated at any time whenever person thinks that another is more competent to use it than himself.
+
+In order to do the most good, we want that those contributing the most also be the most enabled to direct others, that is to have the highest voting power. The problem comes at measuring what's done, and that can be measured in two ways. First, by setting the an "objective" measure, and everything is measured using that - I see it impossible to establish universal measure for such diverse and unique term "threats and risks to humanity". Second way is to measure it in a "subjective" manner either by rating or ranking. According to [#REF], ranking is better than rating in ambigous and subjective decisions. I propose the following three things - members claim their target rank after a set period, and at the end of the period anonymous peer ranking is performed and corrected for competence using [#REF] method to improve its precision.
+
+The end voting power should positively correlate with rank (R) and precision of the claim (`E = mod(R_real - R_claimed)`), for example by formula `VOTES = ( R + 1/(sqrt(E)+1) ) / R`. Elaborate on properties of target function ...
+
+
+Crowdsource the proposal and discussion processes. ...
+
+
+
+
+## Enforcement
+
+For enforcement, I see 4 setups to organize enforcement:
+
+1. each member holds power to harm/destroy other members and everyone is intimated to behave by collective threats to execute this power
+2. there is special entity that holds the power mentioned above instead of each individual
+3. there is some common good that is shared among members and everyone is intimated to behave by threats to be denied to this good
+4. there is a straightforward public feedback on member actions and everyone is intimated to behave by peer pressure
+
+For enforcement, I see that peer pressure mechanism emerges naturally by providing straightforward and public feedback on member actions via ranking discussed above. Like in old days with the race to the Moon, states are expected to compete with their rivals in the eyes of all the rest states.
+
+
+We choose peer pressure
+
+
+
+
+## (Implementation) Required tools and technology
+
+LiquidFeedback (re-implemented on blockchain)
+
+Universal ID - humaniq.co - everyone needs bio ID to log into liquid feedback system.
+
+Benevolent dictator for life
+
+Cryptography to provide anonymity in voting
+
+
+
+
+## Roadmap
+
+
+
+
+
+
+
+
+How the model meets the assessment criteria
+========================================================================================================================
+> Assessment criteria (2750 words max) - Entries will be assessed based on how well they can be expected to manage global challenges and meet the criteria listed below:
 
 
 ### Specific global challanges
@@ -144,112 +256,57 @@ UN Sustainable Development Goals[3]:
 
 As we can see, these challanges are very diverse - they are both direct and meta problems, both external and internal to humanity, both old and new problems, both well-marketed and underexposed problems, as well they are ranging across variety of disciplines. ...
 
-## (Politics) Who is on the side with goal
-
-axiom: most of states are interested to do something.
-
-The first interesting conclusion from agent types is that only NGOs are directly and inheretly aligned with the given goal. Corporations and illicit groups are opponents, but states and international organizations are neutral.
-
-- *Illicit groups* are organized similar to corporations and seeks either profits or ideological goals, but by dirty means and within illegal industries that are directly opposed to goals for humanity - human trafficing, heavy drug cartels, mafia and etc. Those are opponents.
-
-- *Corporations* are primary profit-seekers, and thus logically would contribute to the only if that will increase their profits or at least won't harm it. Furthermore, these profits are distributed to special interests insteads of good for the whole humanity. Of course it would be easy to align goals with some of the corporations, but not all of them (for example try ending war without harming military industry, or slavery without harming human trafficing cartels), and lots of them are somewhere in the middle. Thus I would say that corporations aren't foes as long they don't hinder the given goals of humanity, but in the same time are not friends as their inherit motivation is not aligned with goals of humanity.
-
-- *NGOs* are the best friends. First, they are driven by goals of humanity as a core principle, in their own way in their own discipline. Obviously they have income (as well material donations and voluntary work) and expenses as corporations do, but we may say that they commit all profits towards humanity.  Understandably, their goals not always coincide with goals of nation-states or corporations - for example Red Cross provide healthcare to rebels in name of "Everyone has right to health" or internet activists makes freely available otherwise expensive scientific papers in name of "Information should be free". Obviously, there's a still ongoing discussion whenever that's legal (concept of nation-state) to aid enemy of nation-state, and the answer may vary from nation-state to nation-state. Or if that's legal to steal information to share it with humanity, or even if term "stealing" can be applied to information as nothing is lost in contrast to stealing resources. Also, even slavery once was legal. So let's assume that everything which advances goals of humanity and is in interests of nation-states will eventually be recognized as legal.
-
-- *States* are interesting. Theoretically it is a form how population organizes itself and should be concerned only about internal affairs, external security and wellbeing of state (whatever it means), but practically in literature there's divergent thought of what nation-state is about. But in practice corruption, populism and lobbying of special interests are prevailing problems in states that question the basic assumption that it cares first for its population. The good news is that state's goals are not in conflict with goals of humanity, but the bad news is that humanity isn't first priority of states.
-
-- *International institutions* have a clearly set formal that mostly is aligned or doesn't conflict with goals of humanity. Therefore internation institutions can be regarded as at least neutrals for the of humanity.
 
 
-The resulting enduser of given goals is humanity itself, so results should be owned by humanity and actions should be accountable to humanity - this implies transparency, sharing and co-participation.
-
-
-So the proposal is as follows: States, NGOs and Internation institutions come together "to the table of ABC". Corporations are ok to be around but doesn't have any formal voting power. The main idea is that NGOs do their calling for positive impact, states and other international institutions keep corporations in check to not commit negative impact, and everyone indirectly helps NGOs. Meanwhile ABC serves as a humanity's distributed platform for proposals, discussion and decision-making.
-
-
-
-
-## Governance model
-
-
-
-
-### Proposals
-
-Proposals - anyone can make a proposal, and only if that gains sufficient popularity among vote-holders, it proceeds to discussion. This filters irrelevant proposals early and thus ensures that each proposal that passes this line is worth looking at.
-
-ref & praise LF
-
-Discussion - during discussion phase proposals can be updated, commented, and alternative solutions proposed. In next phase the best alternative is voted upon, and afterwards a yes/no vote is decided.
-
-### Decision
-
-Voting power - all participants have X votes that they can split into infinite parts. For example, president of a state can keep it for himself (as in monarchies), or evenly distribute within its population (as in democracies). The same for NGOs - its up to them how to distribute the vote best. Wide distribution is welcome as it facilitates co-participation and therefore responsibility to humanity itself. These votes can be delegated or redelegated at any time whenever person thinks that another is more competent to use it than himself.
-
-In order to do the most good, we want that those contributing the most also be the most enabled to direct others, that is to have the highest voting power. The problem comes at measuring what's done, and that can be measured in two ways. First, by setting the an "objective" measure, and everything is measured using that - I see it impossible to establish universal measure for such diverse and unique term "threats and risks to humanity". Second way is to measure it in a "subjective" manner either by rating or ranking. According to [#REF], ranking is better than rating in ambigous and subjective decisions. I propose the following three things - members claim their target rank after a set period, and at the end of the period anonymous peer ranking is performed and corrected for competence using [#REF] method to improve its precision.
-
-The end voting power should positively correlate with rank (R) and precision of the claim (`E = mod(R_real - R_claimed)`), for example by formula `VOTES = ( R + 1/(sqrt(E)+1) ) / R`. Elaborate on properties of target function ...
-
-
-Crowdsource the proposal and discussion processes. ...
-
-
-## Enforcement
-
-For enforcement, I see 4 setups to organize enforcement:
-
-1. each member holds power to harm/destroy other members and everyone is intimated to behave by collective threats to execute this power
-2. there is special entity that holds the power mentioned above instead of each individual
-3. there is some common good that is shared among members and everyone is intimated to behave by threats to be denied to this good
-4. there is a straightforward public feedback on member actions and everyone is intimated to behave by peer pressure
-
-For enforcement, I see that peer pressure mechanism emerges naturally by providing straightforward and public feedback on member actions via ranking discussed above. Like in old days with the race to the Moon, states are expected to compete with their rivals in the eyes of all the rest states.
-
-
-We choose peer pressure
-
-
-
-## (Implementation) Required tools and technology
-
-LiquidFeedback (re-implemented on blockchain)
-
-Universal ID - humaniq.co - everyone needs bio ID to log into liquid feedback system.
-
-Benevolent dictator for life
-
-Cryptography to provide anonymity in voting
-
-
-## Roadmap
-
-
-
-
-
-# How the model meets the assessment criteria
-> Assessment criteria (2750 words max) - Entries will be assessed based on how well they can be expected to manage global challenges and meet the criteria listed below:
 
 ## 1. Core Values.
 > Decisions within the governance model must be guided by the good of all humankind and by respect for the equal value of all human beings.
 
+
+
+
+
 ## 2. Decision-Making Capacity.
 > Decision-making within the governance model must generally be possible without crippling delays that prevent the challenges from being adequately addressed (e.g. due to parties exercising powers of veto).
+
+
+
+
 
 ## 3. Effectiveness.
 > The governance model must be capable of handling the global challenges and risks and include means to ensure implementation of decisions.
 
+
+
+
+
 ## 4. Resources and Financing.
 > The governance model must have sufficient human and material resources at its disposal, and these resources must be financed in an equitable manner.
+
+
+
+
 
 ## 5. Trust and Insight.
 > The trust enjoyed by a successful governance model and its institutions relies on *transparency* and considerable insight into power structures and decision-making.
 
+
+
+
+
 ## 6. Flexibility.
 > In order to be able to fulfil its objectives effectively, a successful governance model must contain mechanisms that allow for revisions and improvements to be made to its structure and components.
 
+
+
+
+
 ## 7. Protection against the Abuse of Power.
 > A control system must be in place to take action if the organization should overstep its mandate, e.g. by unduly interfering with the internal affairs of nation-states or favouring the special interests of individuals, groups, organizations, states or groups of states.
+
+
+
+
 
 ## 8. Accountability.
 > It is a fundamental requirement of a successful governance model that it performs the tasks it has been charged with, and the governance model must include the power to hold the decision-makers accountable for their actions.
@@ -258,21 +315,39 @@ Cryptography to provide anonymity in voting
 
 
 
-# References
+
+
+
+References
+========================================================================================================================
 
 
 [1] Benjamin Todd, the CEO of 80,000 Hours, https://80000hours.org/career-guide/world-problems/
 [2] The Modern Mercenary - Private Armies and What They Mean for World Order by Sean McFate
 [3] http://www.un.org/sustainabledevelopment/
 
-# Attachments
 
+
+
+
+
+
+
+Attachments
+========================================================================================================================
 > max 2 illustrations
 
 
 
 
-# Apendixes
+
+
+
+
+Apendixes (not to be submitted)
+========================================================================================================================
+
+
 
 ## Apendix 1
 
