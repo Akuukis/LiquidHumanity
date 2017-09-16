@@ -50,6 +50,7 @@ Since the end of WW2, through Cold War, invention of Computer and the rise of In
 
 From Westphalian to Neomedieval world order / Beyond International order
 -------------------------------------------------------------------------------
+> Target: 700 words
 
 Lets open this chapter top down. According to H. Bull, *World Order* is patterns or dispositions of human activity that sustain the elementary or primary goals of social life among mankind as a whole, but *International Order* is such order among states only. Last few centuries, international order was a good proxy for world order because states were predominant de facto forms of sovereign actors within the world community. Unfortunely or perhaps luckily, there are multitude of authors[1] that see a decline of states system for already few decades, although they don't agree on what will take its place. Nevertheless, as states are declining the well studied international order is little of use for understanding the less studied world order in future and already today. There are various guesses what's coming next and each of them have very different implications for the future, but that discussion is out of scope of this paper. Therefore I will move on with the school of though that sees our time as a transition into a new world order of durable chaos within *Neomedieval order*, and here's why it was chosen.
 
@@ -61,21 +62,9 @@ Sean McFate in his book "Modern Mercenary" summarizes the importance of shifting
 
 Hedley Bull:
 
-	The essential attributes of the states system, as they have been defined here, are first a plurality of sovereign states; second, a degree of interaction among them, in respect of which they form a system; and third, a degree of acceptance of common rules and institutions, in respect of which they form a society.
+	Modern states have been united in the belief that they are the principal actors in world politics and the chief bearers of rights and duties within it. The society of states has sought to ensure that it will remain the prevailing form of universal political organisation, in fact and in right.
 
-	In the latter case it may be imagined that a world government [..] may be arising gradually, perhaps through accretion of the powers of the United Nations.
-
-	It is also conceivable that sovereign states might disappear and be replaced not by a world government but by a modern and secular equivalent of the kind of universal political organisation that existed in Western Christendom in the Middle Ages. In that system no ruler or state was sovereign in the sense of being supreme over a given territory and a given segment of the Christian population; each had to share authority with vassals beneath , and with the Pope and (in Germany and Italy) the H oly Roman Emperor above . The universal political order of Western Christendom represents an alternative to the system of states which does not yet embody universal govern­ment. All authority in medieval Christendom was thought to derive ultimately from God and the political system was basically Theocratic. It might therefore seem fanciful to contemplate a return to the medieval model, but it is not fanciful to imagine that there might develop a modern and secular counterpart of it that embodies its central characteristic: a system of overlapping authority and multiple loyalty. It is familiar that sovereign states today share the stage of world politics with 'other actors' just as in medieval times the state had to share the stage with 'other associations' (to use the mediavalists' phrase). If modern states were to come to share their authority over their citizens, and their ability to command their loyalties, on the one hand with regional and world authorities, and on the other hand with sub-state or sub-national authorities, to such an extent that the concept of sovereignty ceased to be applicable, then a neo­medieval form of universal political order might be said to have emerged. We might imagine, for example, that the government of the United Kingdom had to share its authority on the one hand with authorities in Scotland, Wales, Wessex and elsewhere, and on the other hand with a European authority in Brussels and world authorities in New York and Geneva, to such an extent that the notion of its supremacy over the territory and people of the United Kingdom had no force. We might imagine that the authorities in Scotland and Wales, as well as those in Brussels, New York and Geneva enjoyed standing as actors in world politics, recognised as having rights and duties in world law, conducting negotiations and perhaps able to command armed forces. We might imagine that the political loyalties of the inhabitants of, say, Glasgow, were so uncertain as between the authorities in Edinburgh , London, Brussels and New York that the government of the United Kingdom could not be assumed to enjoy any kind of primacy over the others, such as it possesses now. If such a state of affairs prevailed all over the globe, this is what we may call, for want of a better term, a neo-mediaeval order. The case for regarding this form of universal political organisa­tion as representing a superior path to world order to that em­bodied in the states system would be that it promises to avoid the classic dangers of the system of sovereign states by a structure of overlapping authorities and crisscrossing loyalties that hold all peoples together in a universal society, while at the same time avoiding the concentration of power inherent in a world govern­ment. The case for doubting whether the neo-mediaeval model is superior is that there is no assurance that it would prove more orderly than the states system, rather than less. It is conceivable that a universal society of this kind might be constructed that would provide a firm basis for the realisation of elementary goals of social life. But if it were anything like the precedent of Western Christendom, it would contain more ubiquitous and continuous violence and insecurity than does the modern states system.
-
-	First, there is the goal of preservation of the system and society of states itself. Whatever the divisions among them, modern states have been united in the belief that they are the principal actors in world politics and the chief bearers of rights and duties within it. The society of states has sought to ensure that it will remain the prevailing form of universal political organisation, in fact and in right.
-
-
-
-
-... summary of Modern Mercenary & its references ...
-... summary of Modern Mercenary & its references ...
-... summary of Modern Mercenary & its references ...
-... summary of Modern Mercenary & its references ...
+[... summary of Modern Mercenary & its references ...]
 
 
 In neomedievalism, independent political actors in world affairs are categorized in different types of *Sovereign agents*:
@@ -89,43 +78,34 @@ In neomedievalism, independent political actors in world affairs are categorized
 In addition, integrity (DEF: the state of being whole, entire, or undiminished) matters. For example ...
 
 
-... summary of Modern Mercenary & its references ...
-... summary of Modern Mercenary & its references ...
-... summary of Modern Mercenary & its references ...
-... summary of Modern Mercenary & its references ...
-... summary of Modern Mercenary & its references ...
 
-
-
-
-
-... summary of Modern Mercenary & its references ...
-... summary of Modern Mercenary & its references ...
-... summary of Modern Mercenary & its references ...
-... summary of Modern Mercenary & its references ...
-... summary of Modern Mercenary & its references ...
-... summary of Modern Mercenary & its references ...
-
-
-
-
-Task in context - global cooperation for idea
+Defining beneficiaries of "General model for Decision-making".
 -------------------------------------------------------------------------------
+> Target: 500 words
 
-Another difficulty raises from the fact that the humanity is not a agent per se. And we can't use a specific agent as a proxy, because that would be a discrimination against population that agent doesn't represent. Therefore, I see 2 ways how to benefit humanity in such situation:
+Let's open with a brave statement that everyone could agree on - humanity should be the beneficiary. That statement involves few tricks on which I would like to expand more.
 
-1. Govern multiple agents so that sum of those agent's population represents humanity
-2. Give birth to a new agent type that directly represents humanity
+### 1. In its width, there's no representative agent of whole humanity one could listen to or directly support.
 
-This proposal is about 1. strategy [and I have submitted another proposal about 2. strategy].
+We do have many agents of one of five types discussed above, but none of them is humanity itself. In other words, humanity is not a agent per se. And we can't just pick and use a specific agent as a proxy for humanity, because that would be discriminating against population that the lucky agent doesn't represent. Here I see two strategies how to benefit humanity in such conditions:
+
+1. Unite multiple agents so that sum of those agent's represented populations in total cover all humanity.
+2. Give birth to a new agent type that directly represents most all humanity.
+
+This proposal is about the 1. strategy.
 
 Nevertheless, in context of emerging neomedievalism, the task is ambitious - to either improve an existing internation organization UN to be effective over all types of agents, or design a brand new entity that would be.
 
+
+### 2. In its timelessness, not only living humans but also future generations should be considered.
+
+To continue on the above mentioned problem, there's also a part of humanity that is not born yet. Unfortunely they are the most discriminated "minorities" - what amount of waste and deffered problems current generation is leaving behind for them to deal with. Also future generations are less represented by before mentioned types of agents than current generations.
 
 
 
 (Politics) Who is on the side with goal
 -------------------------------------------------------------------------------
+> Target: 700 words
 
 axiom: most of states are interested to do something.
 
@@ -145,17 +125,16 @@ The first interesting conclusion from agent types is that only NGOs are directly
 The resulting enduser of given goals is humanity itself, so results should be owned by humanity and actions should be accountable to humanity - this implies transparency, sharing and co-participation.
 
 
-So the proposal is as follows: States, NGOs and Internation institutions come together "to the table of ABC". Corporations are ok to be around but doesn't have any formal voting power. The main idea is that NGOs do their calling for positive impact, states and other international institutions keep corporations in check to not commit negative impact, and everyone indirectly helps NGOs. Meanwhile ABC serves as a humanity's distributed platform for proposals, discussion and decision-making.
-
-
 
 
 Governance model
 -------------------------------------------------------------------------------
+> Target: 1000 words
+
+The proposal is as follows: States, NGOs and Internation institutions come together "to the table of ABC". Corporations are ok to be around but doesn't have any formal voting power. The main idea is that NGOs do their calling for positive impact, states and other international institutions keep corporations in check to not commit negative impact, and everyone indirectly helps NGOs. Meanwhile ABC serves as a humanity's distributed platform for proposals, discussion and decision-making.
 
 
-
-### Proposals
+### Proposals & Discussion
 
 Proposals - anyone can make a proposal, and only if that gains sufficient popularity among vote-holders, it proceeds to discussion. This filters irrelevant proposals early and thus ensures that each proposal that passes this line is worth looking at.
 
@@ -180,6 +159,7 @@ Crowdsource the proposal and discussion processes. ...
 
 Enforcement
 -------------------------------------------------------------------------------
+> Target: 500 words
 
 For enforcement, I see 4 setups to organize enforcement:
 
@@ -198,6 +178,7 @@ We choose peer pressure
 
 (Implementation) Required tools and technology
 -------------------------------------------------------------------------------
+> Target: 700 words
 
 LiquidFeedback (re-implemented on blockchain)
 
@@ -212,10 +193,18 @@ Cryptography to provide anonymity in voting
 
 Roadmap
 -------------------------------------------------------------------------------
+> Target: 500 words
 
 
 
 
+
+
+
+
+Example
+-------------------------------------------------------------------------------
+> Target: 300 words
 
 
 
