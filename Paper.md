@@ -20,7 +20,7 @@
 
 
 Abstract
-========================================================================================================================
+===============================================================================
 > 1000 words max
 
 
@@ -31,7 +31,7 @@ Abstract
 
 
 Description of the model
-========================================================================================================================
+===============================================================================
 > Task (5500 words max)
 >
 > The participant must *design a governance model* able to effectively address the most pressing *threats and risks to humanity*. In other words, the task is not to come up with direct solutions to specific problems. Rather, it is to design a *general model for decision-making*, with the aim of *generating such solutions* and the *ability to do so*, and possessing the resources to *effectively implement them*.
@@ -48,7 +48,8 @@ Since the end of WW2, through Cold War, invention of Computer and the rise of In
 
 
 
-## World order - from Westphalian order to Neomedieval order    /    Beyond International order
+From Westphalian to Neomedieval world order / Beyond International order
+-------------------------------------------------------------------------------
 
 Lets open this chapter top down. According to H. Bull, *World Order* is patterns or dispositions of human activity that sustain the elementary or primary goals of social life among mankind as a whole, but *International Order* is such order among states only. Last few centuries, international order was a good proxy for world order because states were predominant de facto forms of sovereign actors within the world community. Unfortunely or perhaps luckily, there are multitude of authors[1] that see a decline of states system for already few decades, although they don't agree on what will take its place. Nevertheless, as states are declining the well studied international order is little of use for understanding the less studied world order in future and already today. There are various guesses what's coming next and each of them have very different implications for the future, but that discussion is out of scope of this paper. Therefore I will move on with the school of though that sees our time as a transition into a new world order of durable chaos within *Neomedieval order*, and here's why it was chosen.
 
@@ -108,7 +109,8 @@ In addition, integrity (DEF: the state of being whole, entire, or undiminished) 
 
 
 
-## Task in context - global cooperation for idea
+Task in context - global cooperation for idea
+-------------------------------------------------------------------------------
 
 Another difficulty raises from the fact that the humanity is not a agent per se. And we can't use a specific agent as a proxy, because that would be a discrimination against population that agent doesn't represent. Therefore, I see 2 ways how to benefit humanity in such situation:
 
@@ -122,7 +124,8 @@ Nevertheless, in context of emerging neomedievalism, the task is ambitious - to 
 
 
 
-## (Politics) Who is on the side with goal
+(Politics) Who is on the side with goal
+-------------------------------------------------------------------------------
 
 axiom: most of states are interested to do something.
 
@@ -147,8 +150,8 @@ So the proposal is as follows: States, NGOs and Internation institutions come to
 
 
 
-## Governance model
-
+Governance model
+-------------------------------------------------------------------------------
 
 
 
@@ -175,7 +178,8 @@ Crowdsource the proposal and discussion processes. ...
 
 
 
-## Enforcement
+Enforcement
+-------------------------------------------------------------------------------
 
 For enforcement, I see 4 setups to organize enforcement:
 
@@ -192,7 +196,8 @@ We choose peer pressure
 
 
 
-## (Implementation) Required tools and technology
+(Implementation) Required tools and technology
+-------------------------------------------------------------------------------
 
 LiquidFeedback (re-implemented on blockchain)
 
@@ -205,7 +210,8 @@ Cryptography to provide anonymity in voting
 
 
 
-## Roadmap
+Roadmap
+-------------------------------------------------------------------------------
 
 
 
@@ -215,7 +221,7 @@ Cryptography to provide anonymity in voting
 
 
 How the model meets the assessment criteria
-========================================================================================================================
+===============================================================================
 > Assessment criteria (2750 words max) - Entries will be assessed based on how well they can be expected to manage global challenges and meet the criteria listed below:
 
 
@@ -259,56 +265,64 @@ As we can see, these challanges are very diverse - they are both direct and meta
 
 
 
-## 1. Core Values.
+(1.) Core Values.
+-------------------------------------------------------------------------------
 > Decisions within the governance model must be guided by the good of all humankind and by respect for the equal value of all human beings.
 
 
 
 
 
-## 2. Decision-Making Capacity.
+(2.) Decision-Making Capacity.
+-------------------------------------------------------------------------------
 > Decision-making within the governance model must generally be possible without crippling delays that prevent the challenges from being adequately addressed (e.g. due to parties exercising powers of veto).
 
 
 
 
 
-## 3. Effectiveness.
+(3.) Effectiveness.
+-------------------------------------------------------------------------------
 > The governance model must be capable of handling the global challenges and risks and include means to ensure implementation of decisions.
 
 
 
 
 
-## 4. Resources and Financing.
+(4.) Resources and Financing.
+-------------------------------------------------------------------------------
 > The governance model must have sufficient human and material resources at its disposal, and these resources must be financed in an equitable manner.
 
 
 
 
 
-## 5. Trust and Insight.
+(5.) Trust and Insight.
+-------------------------------------------------------------------------------
 > The trust enjoyed by a successful governance model and its institutions relies on *transparency* and considerable insight into power structures and decision-making.
 
 
 
 
 
-## 6. Flexibility.
+(6.) Flexibility.
+-------------------------------------------------------------------------------
 > In order to be able to fulfil its objectives effectively, a successful governance model must contain mechanisms that allow for revisions and improvements to be made to its structure and components.
 
 
 
 
 
-## 7. Protection against the Abuse of Power.
+(7.) Protection against the Abuse of Power.
+-------------------------------------------------------------------------------
 > A control system must be in place to take action if the organization should overstep its mandate, e.g. by unduly interfering with the internal affairs of nation-states or favouring the special interests of individuals, groups, organizations, states or groups of states.
 
 
 
 
 
-## 8. Accountability.
+(8.) Accountability.
+-------------------------------------------------------------------------------
 > It is a fundamental requirement of a successful governance model that it performs the tasks it has been charged with, and the governance model must include the power to hold the decision-makers accountable for their actions.
 
 
@@ -319,7 +333,7 @@ As we can see, these challanges are very diverse - they are both direct and meta
 
 
 References
-========================================================================================================================
+===============================================================================
 
 
 [1] Benjamin Todd, the CEO of 80,000 Hours, https://80000hours.org/career-guide/world-problems/
@@ -334,7 +348,7 @@ References
 
 
 Attachments
-========================================================================================================================
+===============================================================================
 > max 2 illustrations
 
 
@@ -345,11 +359,12 @@ Attachments
 
 
 Apendixes (not to be submitted)
-========================================================================================================================
+===============================================================================
 
 
 
-## Apendix 1
+Apendix 1
+-------------------------------------------------------------------------------
 
 
 Westphalian order, the current Global order, codified into International Law, is based on basic principle - states are the only sovereign agents in global politics. As long states are sovereign, and there are no other sovereign, Westphalian order is considered strong. Of course, states are allowed to come together and make international institutions, and make pledges or even surrend part of its sovereigncy to the international institutions, like Internation Criminal Court or United Nations itself. But in last decades Westphalian order has been weak and is slowly breaking down further due to many reasons:
@@ -362,7 +377,8 @@ Westphalian order, the current Global order, codified into International Law, is
 6. **Unilateral interventions** - blahblahblah
 
 
-## Apendix 2: Hedlay Bull excerpts
+Apendix 2: Hedlay Bull excerpts
+-------------------------------------------------------------------------------
 
 
 Hedlay Bull: To say of a number of things that together they display *order* is, in the simplest and most general sense of the term, to say that they are related to one another according to some pattern, that their relationship is not purely haphazard but contains some discernible principle.
