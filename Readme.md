@@ -127,14 +127,14 @@ The resulting enduser of given goals is humanity itself, so results should be ow
 
 
 
-Governance model
+Decision-making process
 -------------------------------------------------------------------------------
 > Target: 1000 words
 
-The proposal is as follows: States, NGOs and Internation institutions come together "to the table of ABC". Corporations are ok to be around but doesn't have any formal voting power. The main idea is that NGOs do their calling for positive impact, states and other international institutions keep corporations in check to not commit negative impact, and everyone indirectly helps NGOs. Meanwhile ABC serves as a humanity's distributed platform for proposals, discussion and decision-making.
+Finally its time to expand on the decision-making process itself. Naturally, it consists of proposing, discussion and decision phases, where each of them are facilited by agents participating in the process. While each agent internally is free to impose any governance model, the interaction between sovereign agents can be only democratic (otherwise they wouldn't be sovereign anymore). For that matter I propose to build upon Liquid Feedback system for proposition development and decision making. It has already done the heaving lifting of defining the processes that I will summarize in the next chapter. Liquid Feedback assumes one-agent-one-vote axiom as in great democracy, but I would like to relax that in order to harness ideas and contribution to discussions of questionable agents while limiting their impact on decision making. The overview of these modifications are laid out in second chapter, but the new rules of liquid voting power and their dynamics are described in the third chapter.
 
 
-### Proposals & Discussion
+### Proposition development and decision making
 
 Proposals - anyone can make a proposal, and only if that gains sufficient popularity among vote-holders, it proceeds to discussion. This filters irrelevant proposals early and thus ensures that each proposal that passes this line is worth looking at.
 
@@ -150,6 +150,13 @@ Voting power - all participants have X votes that they can split into infinite p
 In order to do the most good, we want that those contributing the most also be the most enabled to direct others, that is to have the highest voting power. The problem comes at measuring what's done, and that can be measured in two ways. First, by setting the an "objective" measure, and everything is measured using that - I see it impossible to establish universal measure for such diverse and unique term "threats and risks to humanity". Second way is to measure it in a "subjective" manner either by rating or ranking. According to [#REF], ranking is better than rating in ambigous and subjective decisions. I propose the following three things - members claim their target rank after a set period, and at the end of the period anonymous peer ranking is performed and corrected for competence using [#REF] method to improve its precision.
 
 The end voting power should positively correlate with rank (R) and precision of the claim (`E = mod(R_real - R_claimed)`), for example by formula `VOTES = ( R + 1/(sqrt(E)+1) ) / R`. Elaborate on properties of target function ...
+
+
+### Participants
+
+The proposal is as follows: States, NGOs and Internation institutions come together "to the table of ABC". Corporations are ok to be around but doesn't have any formal voting power. The main idea is that NGOs do their calling for positive impact, states and other international institutions keep corporations in check to not commit negative impact, and everyone indirectly helps NGOs. Meanwhile ABC serves as a humanity's distributed platform for proposals, discussion and decision-making.
+
+
 
 
 Crowdsource the proposal and discussion processes. ...
