@@ -134,16 +134,24 @@ Decision-making process
 Finally its time to expand on the decision-making process itself. Naturally, it consists of proposing, discussion and decision phases, where each of them are facilited by agents participating in the process. While each agent internally is free to impose any governance model, the interaction between sovereign agents can be only democratic (otherwise they wouldn't be sovereign anymore). For that matter I propose to build upon Liquid Feedback system for proposition development and decision making. It has already done the heaving lifting of defining the processes that I will summarize in the next chapter. Liquid Feedback assumes one-agent-one-vote axiom as in great democracy, but I would like to relax that in order to harness ideas and contribution to discussions of questionable agents while limiting their impact on decision making. The overview of these modifications are laid out in second chapter, but the new rules of liquid voting power and their dynamics are described in the third chapter.
 
 
-### Proposition development and decision making
+### Proposition development process
 
-Proposals - anyone can make a proposal, and only if that gains sufficient popularity among vote-holders, it proceeds to discussion. This filters irrelevant proposals early and thus ensures that each proposal that passes this line is worth looking at.
+For proposition development Liquid Feedback has done a great work and there's nothing much to add or remove from. To learn more about it, please refer to their manual, as here will be a brief summary relavant for context of this essay.
 
-ref & praise LF
+Liquid Feedback recognizes drawbacks of current implementations, most notable being "loud minority" problem, "illusion of consensus" problem and "populism" problem. It proposes 4 step process that not only surpresses these problems, but also increases overall proposition quality also.
 
-Discussion - during discussion phase proposals can be updated, commented, and alternative solutions proposed. In next phase the best alternative is voted upon, and afterwards a yes/no vote is decided.
+Anyone can write a proposal to change anything within postulated domain. First step is to gain sufficient activity among vote-holders within a set timeframe in order to advance to next step, otherwise it is discarded early as irrelevant. This ensures that each proposal that passes first step is worth to discuss about. Another important factor is how proposals show up for platform users - they are presented as stream but smartly ordered. Please refer to manual for formulas, but the point is that its impossible to gain attention by "spamming" proposal multiple times by the same group, so that all vote-holders are represented more or less equally at the top. This solves "loud minority" problem here.
+
+The second step is called discussion phase, the longest of all four steps. The original content of proposal becomes "alternitive #1 solution to problem X". During this step users are expected to comment on original proposal to solve the described problem, and the author of alternative #1 solution is expected to cooperate with others to improve its proposal. Obviously at some point disagreement will come and in that case anyone is free to take up iniative and create "alternative #2" solution under the same problem, which also receives comments and is improved alongside. Multiple alternatives are encouraged as that discovers various possible solutions. This phase gives time to problem and solutions to mature before next two voting phases. Another imprtant factor is that comments are upvotable and downvotable, but these votes are relative to user. From user perspective, only the votes of other users he follows himself are taken into account. That elegantly solves both "loud minority" and "populism" problems as lots of users whom no-one follows will have zero impact.
+
+[Step 3 - alternative shortlist]
+
+[Step 4 - no or best alternative]
+
+All together, the platform provides a equal ground for everyone to participate and get objective picture of current and past matters. Under assumption that participant uses the platform as primary source of information, it solves "populism" problem as there no way how to manipulate the content of platform in favor of special interests.
 
 
-### Decision
+### Decision making process
 
 Voting power - all participants have X votes that they can split into infinite parts. For example, president of a state can keep it for himself (as in monarchies), or evenly distribute within its population (as in democracies). The same for NGOs - its up to them how to distribute the vote best. Wide distribution is welcome as it facilitates co-participation and therefore responsibility to humanity itself. These votes can be delegated or redelegated at any time whenever person thinks that another is more competent to use it than himself.
 
