@@ -172,28 +172,29 @@ That should work great in closed communities that has centralized membership sta
 
 Also Liquid Feedback sticks to "one participant one vote" rule like democracies does, but I want to point out another difference in usage here. Liquid Feedback, as well democracies are designed to be consisted of humans only, implying that "participants" are all made of flesh-and-bones and are equal in rights and (at least some of) motivations. Also the question of "being the participant or not" is left out of scope. But when designing democratic process for global community we have various agent types (and frankly none of them is human) that inheretly are not equal in rights and motivations as discussed above, as well are made of diverse structures even within one agent type (i.e. state can be either democratic or monarchy). Despites we have clear criterias for inclusion of state and nevertheless their amount doesn't change often, it's not clear at all which international institutions, NGOs and corporations should be included, furthermore they rise and fall more frequently than states. I call static approach "one participant one vote" not applyable to this dynamic case.
 
-Consequently, I propose to have dynamic voting power for participants. Also that would naturally define vote-eligible participation status - either you have any voting power or not.
+Consequently, I propose to have dynamic voting power for participants.
 
-because in global community there are various agents with various levels of involment and interest for common good. Let's say that every agent has X votes, and that they can split it into infinite parts if needed.
+First, to become a vote-eligble participant there should be a consensus on that. Current platform serves good for these purposes, thus one of the categories within it will be to manage participant list. Just like with any initiative, there has to a initiator, which closely resemblers current way of how new states are recognized. The difference is that there's a possibilty to disapprove the initiative, and any entitity can be suggested to add as participant. But the vote threshhold for adding or removing entity from participant list should be asymetric in favor for adding new ones, for example quarter to add and two-thirds to remove. Once recongized, entity should enjoy its status safely as recongized member, similarly with states where its impossible to de-recognize a state after it has been recognized. The point is that we want many and diverse participants. Also, there should be some starting list of participants and this is a open question. I think that taking all members of UN is a good starting point for states, but something should be used for NGOs, corporations and other entities. Probably nothing and let states invite others but I doubt that's the best solution here as it may come out a very state-centric platform.
 
-In order to do the most good, we want that those contributing the most also be the most enabled to direct others, that is to have the highest voting power
+Second, each participant has his own voting power. Here's a question how to distribute that voting power. As discussed above, "one man one vote" isn't a good option as we have diverse participants, and frankly none of them men or women. Then voting power may be based on how much and at what quality you contribute in decision making process, but that's already done via delegated voting under assumption that such entities will get most of delegated votes. Another logic is to distribute based on how much stake each participant holds, but because our stake is such vague "humanity" and participant domains f participants nevertheless overlaps, it is impossible even to define measurement so that humanity (included those humans not born yet) are represented equally and fairly. In the end I propose to distribute voting power based on contribution to incentives agreed on within the platform. That would reward actually doing what's agreed on. Also, that proxies the logic of having a stake, because if one cares he contributes nevertheless, and after being recognized by others the ones who care get reward. And so the voting power will converge "talkers" that get empowered via delegation and "doers" that get empowered via distribution, leaving freeriders and saboteurs deprived of actual voting power. As everyone are free to read the platform at any moment and discuss incentives or execute results, platform still is democratic as everyone is free to strive to become either a talker or doer at any moment. I expect that in such platform agents will converge into contributing participants with influence and voting power and harmless bystander participants.
 
-...
 The problem comes at measuring what's done, and that can be measured in two ways. First, by setting the an "objective" measure, and everything is measured using that - I see it impossible to establish universal measure for such diverse and unique term "threats and risks to humanity". Second way is to measure it in a "subjective" manner either by rating or ranking. According to [#REF], ranking is better than rating in ambigous and subjective decisions. I propose the following three things - members claim their target rank after a set period, and at the end of the period anonymous peer ranking is performed and corrected for competence using [#REF] method to improve its precision.
 
+...
+
 The end voting power should positively correlate with rank (R) and precision of the claim (`E = mod(R_real - R_claimed)`), for example by formula `VOTES = ( R + 1/(sqrt(E)+1) ) / R`. Elaborate on properties of target function ...
+
 ...
 
 
 Trustworthy and constructive agents are empowered via vote delegation, and effective decision implementators are empowered via vote distribution. Tactical saboteurs are recognized via transparency and remembered via history. That together should create virtious loop to empower collaborative agents and neutralize revealed selfish saboteurs.
 
-The proposal is as follows: States, NGOs and Internation institutions come together "to the table of ABC". Corporations are ok to be around but doesn't have any formal voting power. The main idea is that NGOs do their calling for positive impact, states and other international institutions keep corporations in check to not commit negative impact, and everyone indirectly helps NGOs. Meanwhile ABC serves as a humanity's distributed platform for proposals, discussion and decision-making.
 
+#### [Random phrases & ideas to this chapter]
 
+"The proposal is as follows: States, NGOs and Internation institutions come together "to the table of ABC". Corporations are ok to be around but doesn't have any formal voting power. The main idea is that NGOs do their calling for positive impact, states and other international institutions keep corporations in check to not commit negative impact, and everyone indirectly helps NGOs. Meanwhile ABC serves as a humanity's distributed platform for proposals, discussion and decision-making.""
 
-
-Crowdsource the proposal and discussion processes. ...
-
+"At the start, we give voting power to states only for historic reasons - they are the only ones having voting power currently and that should be non-controversial at implementation stage. This model already adds a lot, and hopefully will shiftly enough converge away from statism as it born. For example, having the first bunch of iniciates about deciding whom of other agent types to include also.""
 
 
 
