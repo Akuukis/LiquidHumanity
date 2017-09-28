@@ -14,12 +14,19 @@
 
 
 
+```
+[
+STATUS:
+	* DRAFT - has to write stuff
+	* REVIEW v1 - has to review content
+	* REVIEW v... - has to review content by another person
+	* PROOFREAD - has to proofread
+	* DONE - don't touch anymore
+]
+```
 
 
-
-
-
-Abstract
+Abstract [DRAFT]
 ===============================================================================
 > 1000 words max
 
@@ -30,7 +37,7 @@ Abstract
 
 
 
-Description of the model
+Description of the model [REVIEW]
 ===============================================================================
 > Task (5500 words max)
 >
@@ -48,7 +55,7 @@ Since the end of WW2, through Cold War, invention of Computer and the rise of In
 
 
 
-From Westphalian to Neomedieval world order / Beyond International order
+From Westphalian to Neomedieval world order / Beyond International order [REVIEW]
 -------------------------------------------------------------------------------
 > Target: 700 words
 
@@ -79,7 +86,7 @@ In addition, integrity (DEF: the state of being whole, entire, or undiminished) 
 
 
 
-Defining beneficiaries of "General model for Decision-making".
+Defining beneficiaries of "General model for Decision-making". [REVIEW]
 -------------------------------------------------------------------------------
 > Target: 500 words
 
@@ -103,7 +110,7 @@ To continue on the above mentioned problem, there's also a part of humanity that
 
 
 
-(Politics) Who is on the side with goal
+(Politics) Who is on the side with goal [REVIEW]
 -------------------------------------------------------------------------------
 > Target: 700 words
 
@@ -127,7 +134,7 @@ The resulting enduser of given goals is humanity itself, so results should be ow
 
 
 
-Decision-making process
+Decision-making process [DRAFT]
 -------------------------------------------------------------------------------
 > Target: 1000 words
 
@@ -144,9 +151,12 @@ Anyone can write a proposal to change anything within postulated domain. First s
 
 The second step is called discussion phase, the longest of all four steps. The original content of proposal becomes "alternitive #1 solution to problem X". During this step users are expected to comment on original proposal to solve the described problem, and the author of alternative #1 solution is expected to cooperate with others to improve its proposal. Obviously at some point disagreement will come and in that case anyone is free to take up iniative and create "alternative #2" solution under the same problem, which also receives comments and is improved alongside. Multiple alternatives are encouraged as that discovers various possible solutions. This phase gives time to problem and solutions to mature before next two voting phases. Another imprtant factor is that comments are upvotable and downvotable, but these votes are relative to user. From user perspective, only the votes of other users he follows himself are taken into account. That elegantly solves both "loud minority" and "populism" problems as lots of users whom no-one follows will have zero impact.
 
-[Step 3 - alternative shortlist]
+[Step 4 - yes/no verification]
 
-[Step 4 - no or best alternative]
+
+
+
+[Step 3 - alternative shortlist]
 
 All together, the platform provides a equal ground for everyone to participate and get objective picture of current and past matters. Under assumption that participant uses the platform as primary source of information, it solves "populism" problem as there no way how to manipulate the content of platform in favor of special interests.
 
@@ -172,7 +182,7 @@ Crowdsource the proposal and discussion processes. ...
 
 
 
-Enforcement
+Enforcement [DRAFT]
 -------------------------------------------------------------------------------
 > Target: 500 words
 
@@ -191,7 +201,7 @@ We choose peer pressure
 
 
 
-(Implementation) Required tools and technology
+(Implementation) Required tools and technology [DRAFT]
 -------------------------------------------------------------------------------
 > Target: 700 words
 
@@ -206,7 +216,7 @@ Cryptography to provide anonymity in voting
 
 
 
-Roadmap
+Roadmap [DRAFT]
 -------------------------------------------------------------------------------
 > Target: 500 words
 
@@ -217,19 +227,21 @@ Roadmap
 
 
 
-Example
+Example [DRAFT]
 -------------------------------------------------------------------------------
 > Target: 300 words
 
 
 
 
-How the model meets the assessment criteria
+How the model meets the assessment criteria [DRAFT]
 ===============================================================================
 > Assessment criteria (2750 words max) - Entries will be assessed based on how well they can be expected to manage global challenges and meet the criteria listed below:
 
+... some intro words ...
 
-### Specific global challanges
+
+### Specific global challanges [DRAFT]
 
 Lets get more specific with global challanges... List of risks in order of importance [1]:
 
@@ -269,7 +281,7 @@ As we can see, these challanges are very diverse - they are both direct and meta
 
 
 
-(1.) Core Values.
+(1.) Core Values. [DRAFT]
 -------------------------------------------------------------------------------
 > Decisions within the governance model must be guided by the good of all humankind and by respect for the equal value of all human beings.
 
@@ -277,7 +289,7 @@ As we can see, these challanges are very diverse - they are both direct and meta
 
 
 
-(2.) Decision-Making Capacity.
+(2.) Decision-Making Capacity. [DRAFT]
 -------------------------------------------------------------------------------
 > Decision-making within the governance model must generally be possible without crippling delays that prevent the challenges from being adequately addressed (e.g. due to parties exercising powers of veto).
 
@@ -285,7 +297,7 @@ As we can see, these challanges are very diverse - they are both direct and meta
 
 
 
-(3.) Effectiveness.
+(3.) Effectiveness. [DRAFT]
 -------------------------------------------------------------------------------
 > The governance model must be capable of handling the global challenges and risks and include means to ensure implementation of decisions.
 
@@ -293,7 +305,7 @@ As we can see, these challanges are very diverse - they are both direct and meta
 
 
 
-(4.) Resources and Financing.
+(4.) Resources and Financing. [DRAFT]
 -------------------------------------------------------------------------------
 > The governance model must have sufficient human and material resources at its disposal, and these resources must be financed in an equitable manner.
 
@@ -301,7 +313,7 @@ As we can see, these challanges are very diverse - they are both direct and meta
 
 
 
-(5.) Trust and Insight.
+(5.) Trust and Insight. [DRAFT]
 -------------------------------------------------------------------------------
 > The trust enjoyed by a successful governance model and its institutions relies on *transparency* and considerable insight into power structures and decision-making.
 
@@ -309,7 +321,7 @@ As we can see, these challanges are very diverse - they are both direct and meta
 
 
 
-(6.) Flexibility.
+(6.) Flexibility. [DRAFT]
 -------------------------------------------------------------------------------
 > In order to be able to fulfil its objectives effectively, a successful governance model must contain mechanisms that allow for revisions and improvements to be made to its structure and components.
 
@@ -317,7 +329,7 @@ As we can see, these challanges are very diverse - they are both direct and meta
 
 
 
-(7.) Protection against the Abuse of Power.
+(7.) Protection against the Abuse of Power. [DRAFT]
 -------------------------------------------------------------------------------
 > A control system must be in place to take action if the organization should overstep its mandate, e.g. by unduly interfering with the internal affairs of nation-states or favouring the special interests of individuals, groups, organizations, states or groups of states.
 
@@ -325,7 +337,7 @@ As we can see, these challanges are very diverse - they are both direct and meta
 
 
 
-(8.) Accountability.
+(8.) Accountability. [DRAFT]
 -------------------------------------------------------------------------------
 > It is a fundamental requirement of a successful governance model that it performs the tasks it has been charged with, and the governance model must include the power to hold the decision-makers accountable for their actions.
 
@@ -336,7 +348,7 @@ As we can see, these challanges are very diverse - they are both direct and meta
 
 
 
-References
+References [DRAFT]
 ===============================================================================
 
 
@@ -351,7 +363,7 @@ References
 
 
 
-Attachments
+Attachments [DRAFT]
 ===============================================================================
 > max 2 illustrations
 
