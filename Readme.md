@@ -37,7 +37,7 @@ Abstract [DRAFT]
 
 
 
-Description of the model [REVIEW]
+Description of the model [REVIEW v1]
 ===============================================================================
 > Task (5500 words max)
 >
@@ -55,7 +55,7 @@ Since the end of WW2, through Cold War, invention of Computer and the rise of In
 
 
 
-From Westphalian to Neomedieval world order / Beyond International order [REVIEW]
+From Westphalian to Neomedieval world order / Beyond International order [REVIEW v1]
 -------------------------------------------------------------------------------
 > Target: 700 words
 
@@ -86,7 +86,7 @@ In addition, integrity (DEF: the state of being whole, entire, or undiminished) 
 
 
 
-Defining beneficiaries of "General model for Decision-making". [REVIEW]
+Defining beneficiaries of "General model for Decision-making". [REVIEW v1]
 -------------------------------------------------------------------------------
 > Target: 500 words
 
@@ -110,7 +110,7 @@ To continue on the above mentioned problem, there's also a part of humanity that
 
 
 
-(Politics) Who is on the side with goal [REVIEW]
+(Politics) Who is on the side with goal [REVIEW v1]
 -------------------------------------------------------------------------------
 > Target: 700 words
 
@@ -134,14 +134,14 @@ The resulting enduser of given goals is humanity itself, so results should be ow
 
 
 
-Decision-making process [DRAFT]
+Decision-making process [REVIEW v1]
 -------------------------------------------------------------------------------
 > Target: 1000 words
 
 Finally its time to expand on the decision-making process itself. Naturally, it consists of proposing, discussion and decision phases, where each of them are facilited by agents participating in the process. While each agent internally is free to impose any governance model, the interaction between sovereign agents can be only democratic (otherwise they wouldn't be sovereign anymore). For that matter I propose to build upon Liquid Feedback system for proposition development and decision making. It has already done the heaving lifting of defining the processes that I will summarize in the next chapter. Liquid Feedback assumes one-agent-one-vote axiom as in great democracy, but I would like to relax that in order to harness ideas and contribution to discussions of questionable agents while limiting their impact on decision making. The overview of these modifications are laid out in second chapter, but the new rules of liquid voting power and their dynamics are described in the third chapter.
 
 
-### Proposition development process
+### Proposition development process [REVIEW v1]
 
 For proposition development Liquid Feedback has done a great work and there's nothing much to add or remove from. To learn more about it, please refer to their manual, as here will be a brief summary relavant for context of this essay.
 
@@ -151,17 +151,15 @@ Anyone can write a proposal to change anything within postulated domain. First s
 
 The second step is called discussion phase, the longest of all four steps. The original content of proposal becomes "alternitive #1 solution to problem X". During this step users are expected to comment on original proposal to solve the described problem, and the author of alternative #1 solution is expected to cooperate with others to improve its proposal. Obviously at some point disagreement will come and in that case anyone is free to take up iniative and create "alternative #2" solution under the same problem, which also receives comments and is improved alongside. Multiple alternatives are encouraged as that discovers various possible solutions. This phase gives time to problem and solutions to mature before next two voting phases. Another imprtant factor is that comments are upvotable and downvotable, but these votes are relative to user. From user perspective, only the votes of other users he follows himself are taken into account. That elegantly solves both "loud minority" and "populism" problems as lots of users whom no-one follows will have zero impact.
 
-[Step 4 - yes/no verification]
+The third step is a verification yes/no vote for each initiative. During that time no alternative solution can be edited, but new ones (expectedly resurrection of old versions) can be added. This phase is to deny last second change abuses from authors as supporters need to verify them later and has a chance to resurrect older version of author. In case no alternative solution is verified then initiative closes here and doesn't make it to voting phase.
 
+The fourth phase is preferential voting for the best initiative. All supporters can approve, abstrain or disapprove each alternative solution, and optionally rank them too. Then using Schulze method the best of alternatives or status quo wins. Schulze method has been chosen as it fullfills number of desired criterias (see Liquid Feedback paper for interesting details). Among other benefits It ensures that "tactical voting" is eliminated as much possible, so voters can focus on expressing their support instead of tactical considerations. For example, lots of similar suggestions don't hurt each other so initators are encouraged to express alternative solutions, or voting for probable minority doesn't waste your vote so all supporters are taken into account even if their first priority didn't succeed.
 
-
-
-[Step 3 - alternative shortlist]
 
 All together, the platform provides a equal ground for everyone to participate and get objective picture of current and past matters. Under assumption that participant uses the platform as primary source of information, it solves "populism" problem as there no way how to manipulate the content of platform in favor of special interests.
 
 
-### Decision making process
+### Decision making process [DRAFT]
 
 Voting power - all participants have X votes that they can split into infinite parts. For example, president of a state can keep it for himself (as in monarchies), or evenly distribute within its population (as in democracies). The same for NGOs - its up to them how to distribute the vote best. Wide distribution is welcome as it facilitates co-participation and therefore responsibility to humanity itself. These votes can be delegated or redelegated at any time whenever person thinks that another is more competent to use it than himself.
 
