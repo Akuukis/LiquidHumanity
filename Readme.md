@@ -155,20 +155,37 @@ The third step is a verification yes/no vote for each initiative. During that ti
 
 The fourth phase is preferential voting for the best initiative. All supporters can approve, abstrain or disapprove each alternative solution, and optionally rank them too. Then using Schulze method the best of alternatives or status quo wins. Schulze method has been chosen as it fullfills number of desired criterias (see Liquid Feedback paper for interesting details). Among other benefits It ensures that "tactical voting" is eliminated as much possible, so voters can focus on expressing their support instead of tactical considerations. For example, lots of similar suggestions don't hurt each other so initators are encouraged to express alternative solutions, or voting for probable minority doesn't waste your vote so all supporters are taken into account even if their first priority didn't succeed.
 
-
 All together, the platform provides a equal ground for everyone to participate and get objective picture of current and past matters. Under assumption that participant uses the platform as primary source of information, it solves "populism" problem as there no way how to manipulate the content of platform in favor of special interests.
 
 
-### Decision making process [DRAFT]
+### Participation and delegated voting [REVIEW v1]
 
-Voting power - all participants have X votes that they can split into infinite parts. For example, president of a state can keep it for himself (as in monarchies), or evenly distribute within its population (as in democracies). The same for NGOs - its up to them how to distribute the vote best. Wide distribution is welcome as it facilitates co-participation and therefore responsibility to humanity itself. These votes can be delegated or redelegated at any time whenever person thinks that another is more competent to use it than himself.
+In Liquid Feedback there's one vote per participant and the delegated voting (a.k.a. proxy voting). Votes (or parts of them therefor) are owned by agent, but they can be or used by himself or deleted to other agent (a.k.a. copying other's vote). Delegation process is very liquid (thus the name of Liquid Feedback), it can be changed at any time, can be specified differently within different domains, and are automatically suspended when agent decided to vote himself in particular incentive. Although each agent *owns* X voting power, he may *yield* a lot more voting power due voluntary delegation by other agents. Gains from this just like with generic "division of labor". As delegator agent may not have expertise in some domains or resources and time in general to participate in each incentive, thus he has a option to delegate his votes to someone with common interests instead of not participating at all.
 
-In order to do the most good, we want that those contributing the most also be the most enabled to direct others, that is to have the highest voting power. The problem comes at measuring what's done, and that can be measured in two ways. First, by setting the an "objective" measure, and everything is measured using that - I see it impossible to establish universal measure for such diverse and unique term "threats and risks to humanity". Second way is to measure it in a "subjective" manner either by rating or ranking. According to [#REF], ranking is better than rating in ambigous and subjective decisions. I propose the following three things - members claim their target rank after a set period, and at the end of the period anonymous peer ranking is performed and corrected for competence using [#REF] method to improve its precision.
+Vote splitting respects diverse internal affairs of agents. For example, president of a state can keep it for himself (as in monarchies), or evenly distribute within its population (as in democracies). The same for NGOs or any other agent - its up to them how to distribute the vote best. Wide distribution is welcome as it facilitates co-participation and therefore gives responsibility to humanity itself. Other than that it doesn't impact anything else much.
+
+For global community with diverse and fluid amount of agents that has to be extended.
+
+That should work great in closed communities that has centralized membership status, but in global community it doesn't stand true. Therefore for liquid inclusion process we allow registration of any participant, regardless that's a human or entity like NGO or corporation. Such self-registered participants won't own any votes and in combination with above mentioned measures against "loud minorities" they can't harm the system. But what they can do is participate in discussions, propose incentives and even vote in rare cases when someone with voting power has deleged it to them. That would allow any human to participate in humanity's affairs, ensuring the human right to speak and to be heard without undermining sovereignity of global community agents. Also, such mechanism will provide staging grounds where to look for potential new vote-eligible participants.
+
+### Dynamic voting power of participants [DRAFT]
+
+Also Liquid Feedback sticks to "one participant one vote" rule like democracies does, but I want to point out another difference in usage here. Liquid Feedback, as well democracies are designed to be consisted of humans only, implying that "participants" are all made of flesh-and-bones and are equal in rights and (at least some of) motivations. Also the question of "being the participant or not" is left out of scope. But when designing democratic process for global community we have various agent types (and frankly none of them is human) that inheretly are not equal in rights and motivations as discussed above, as well are made of diverse structures even within one agent type (i.e. state can be either democratic or monarchy). Despites we have clear criterias for inclusion of state and nevertheless their amount doesn't change often, it's not clear at all which international institutions, NGOs and corporations should be included, furthermore they rise and fall more frequently than states. I call static approach "one participant one vote" not applyable to this dynamic case.
+
+Consequently, I propose to have dynamic voting power for participants. Also that would naturally define vote-eligible participation status - either you have any voting power or not.
+
+because in global community there are various agents with various levels of involment and interest for common good. Let's say that every agent has X votes, and that they can split it into infinite parts if needed.
+
+In order to do the most good, we want that those contributing the most also be the most enabled to direct others, that is to have the highest voting power
+
+...
+The problem comes at measuring what's done, and that can be measured in two ways. First, by setting the an "objective" measure, and everything is measured using that - I see it impossible to establish universal measure for such diverse and unique term "threats and risks to humanity". Second way is to measure it in a "subjective" manner either by rating or ranking. According to [#REF], ranking is better than rating in ambigous and subjective decisions. I propose the following three things - members claim their target rank after a set period, and at the end of the period anonymous peer ranking is performed and corrected for competence using [#REF] method to improve its precision.
 
 The end voting power should positively correlate with rank (R) and precision of the claim (`E = mod(R_real - R_claimed)`), for example by formula `VOTES = ( R + 1/(sqrt(E)+1) ) / R`. Elaborate on properties of target function ...
+...
 
 
-### Participants
+Trustworthy and constructive agents are empowered via vote delegation, and effective decision implementators are empowered via vote distribution. Tactical saboteurs are recognized via transparency and remembered via history. That together should create virtious loop to empower collaborative agents and neutralize revealed selfish saboteurs.
 
 The proposal is as follows: States, NGOs and Internation institutions come together "to the table of ABC". Corporations are ok to be around but doesn't have any formal voting power. The main idea is that NGOs do their calling for positive impact, states and other international institutions keep corporations in check to not commit negative impact, and everyone indirectly helps NGOs. Meanwhile ABC serves as a humanity's distributed platform for proposals, discussion and decision-making.
 
