@@ -30,7 +30,17 @@ Abstract [DRAFT]
 ===============================================================================
 > 1000 words max
 
+This essay consists of:
 
+Description of today’s governance model;
+Definition of the target group - humanity;
+Understanding of all decision-making groups involved;
+
+All further chapters are devoted to the new governance model.
+The description of the new model consists of:
+Decision making process;
+Enforcement, implementation and roadmap;
+And also an example of a working system.
 
 
 
@@ -59,8 +69,8 @@ From Westphalian to Neomedieval world order / Beyond International order [REVIEW
 -------------------------------------------------------------------------------
 > Target: 700 words
 
-Lets open this chapter top down. According to Hedley Bull, *World Order* is characterized by patterns or dispositions of human activity that sustain the elementary or primary goals of social life among mankind as a whole, while *International Order* is order among states only. Over the last few centuries, international order was a good proxy for world order because a state was the predominant form of sovereign actors within the world community. Unfortunately -- or perhaps luckily -- there are a multitude of authors[1] that have written about a decline of the system of states for several  decades, although there is disagreement on what will take its place. Nevertheless, as states decline, the well-studied international order is of little use for understanding the less-studied world order of today, let alone of the future. There are certainly a variety of guesses about what's coming next, and each of them have very different implications for the future, but that discussion is out of the scope of this paper. Therefore I will move on with the school of thought that sees our time as a transition into a new world order of durable chaos within the “*Neomedieval order*”, and why it was chosen.
-What we see today around is that states share the politics of the world order with a multitude of non-state actors: organizations including the United Nations, companies such as Apple, nonprofit groups like the  Red Cross, and of course, a variety of drug cartels and terrorist organizations. Many of these nonstate actors wield power globally on a par with state actors, rendering the state-centric Westphalian order weak at best, if not imminently collapsing. If that is true, the current world order might best be described as *neomedievalism*: "a non-state-centric, multipolar international system of overlapping authorities and allegiances within the same territory".[2] For some, neomedievalism represents an alternative to the Westphalian order, as showed by Philip Cerny, Mark Duffield, Stephen Kobrin, Jörg Friedrichs, and others. This proposal builds upon this worldview.
+Let's open this chapter top down. According to Hedley Bull [5], *World Order* is characterized by patterns or dispositions of human activity that sustain the elementary or primary goals of social life among mankind as a whole, while *International Order* is order among states only. Over the last few centuries, international order was a good proxy for world order because a state was the predominant form of sovereign actors within the world community. Unfortunately -- or perhaps luckily -- there are a multitude of authors[1] that have written about a decline of the system of states for several  decades, although there is a disagreement on what will take its place. Nevertheless, as states decline, the well-studied international order is of little use for understanding the less-studied world order of today, let alone of the future. There are certainly a variety of guesses about what's coming next, and each of them have very different implications for the future, but that discussion is out of the scope of this paper. Therefore I will move on with the school of thought that sees our time as a transition into a new world order of durable chaos within the “*Neomedieval order*”, and why it was chosen.
+What we see today around is that states share the politics of the world order with a multitude of non-state actors: organizations including the United Nations, companies such as Apple, nonprofit groups like the Red Cross, and, of course, a variety of drug cartels and terrorist organizations. Many of these nonstate actors wield power globally on a par with state actors, rendering the state-centric Westphalian order weak at best, if not imminently collapsing. If that is true, the current world order might best be described as *neomedievalism*: "a non-state-centric, multipolar international system of overlapping authorities and allegiances within the same territory".[2] For some, neomedievalism represents an alternative to the Westphalian order, as showed by Philip Cerny, Mark Duffield, Stephen Kobrin, Jörg Friedrichs, and others. This proposal builds upon this worldview.
 
 Sean McFate in his book "Modern Mercenary" summarizes the importance of shifting the perspective on world affairs:
 
@@ -97,16 +107,16 @@ Let's open with a brave statement that everyone could agree on: humanity should 
 We do have many agents of one of five types discussed above, but none of them is humanity itself. In other words, humanity is not a agent per se. And we can't just pick and use a specific agent as a proxy for humanity, because that would be discriminating against population that the lucky agent doesn't represent. Here I see two strategies how to benefit humanity in such conditions:
 
 1. Unite multiple agents so that sum of those agent's represented populations in total cover all humanity.
-2. Give birth to a new agent type that directly represents most all humanity.
+2. Give birth to a new agent type that directly represents most of all humanity.
 
 This proposal is about the #1 strategy.
 
-Nevertheless, in context of emerging neomedievalism, the task is ambitious: to either improve an existing international organization like the UN to be effective over all types of agents, or to design a brand new entity that would be.
+Nevertheless, in context of emerging neomedievalism, the task is ambitious: to either improve an existing international organization like the UN to be effective over all types of agents, or to design a brand new entity.
 
 
 ### 2. In its timelessness, not only living humans but also future generations should be considered.
 
-To continue on the above mentioned problem, there's also a part of humanity that is not born yet. Unfortunely they are the most discriminated "minorities" - what amount of waste and deffered problems current generation is leaving behind for them to deal with. Also future generations are less represented by before mentioned types of agents than current generations.
+To continue on the above mentioned problem, there's also a part of humanity that is not born yet. Unfortunately they are the most discriminated "minorities" - what amount of waste and deferred problems current generation is leaving behind for them to deal with. Also future generations are less represented by above mentioned types of agents than current generations or sometimes even not represented at all.
 
 
 
@@ -114,23 +124,18 @@ To continue on the above mentioned problem, there's also a part of humanity that
 -------------------------------------------------------------------------------
 > Target: 700 words
 
-axiom: most of states are interested to do something.
+[ Intro: What is the “goal”? What means the word “side”? What this chapter is about? ]
 
 The first interesting conclusion from agent types is that only NGOs are directly and inheretly aligned with the given goal. Corporations and illicit groups are opponents, but states and international organizations are neutral.
 
-- *Illicit groups* are organized similar to corporations and seeks either profits or ideological goals, but by dirty means and within illegal industries that are directly opposed to goals for humanity - human trafficing, heavy drug cartels, mafia and etc. Those are opponents.
+The first interesting conclusion from agent types is that only NGOs are directly and inherently aligned with the given goal. Corporations and illicit groups are opponents, but states and international organizations are neutral.
+- *Illicit* groups are organized similar to corporations and seek either profits or ideological goals. But they are doing it by dirty means and within illegal industries that are directly opposed to goals for humanity, for example, human trafficking, heavy drug cartels, mafia and etc. These groups are the opponents.
+- *Corporations* are primary profit-seekers, and thus logically would contribute to the only if that will increase their profits or at least won't harm it. Furthermore, these profits are distributed to special interests instead of good for the whole humanity. Of course it would be easy to align goals with some of the corporations, but not all of them (for example try ending war without harming military industry), and lots of them are somewhere in the middle. Thus I would say that corporations aren't foes as long they don't hinder the given goals of humanity, but in the same time are not friends as their inherit motivation is not aligned with goals of humanity.
+- *NGOs* are the best friends of humanity. First, they are driven by goals of humanity as a core principle, in their own way in their own discipline. Obviously they have income (as well material donations and voluntary work) and expenses as corporations do, but we may say that they commit all profits towards humanity. Understandably, their goals not always coincide with goals of nation-states or corporations - for example Red Cross provides healthcare to rebels in name of "Everyone has a right to health" or internet activists makes freely available otherwise expensive scientific papers in name of "Information should be free". Obviously, there's a still ongoing discussion whenever that's legal (concept of nation-state) to aid enemy of nation-state, and the answer may vary from nation-state to nation-state. Or if that's legal to steal information to share it with humanity, or even if term "stealing" can be applied to information as nothing is lost in contrast to stealing resources. Also, even slavery once was legal. So let's assume that everything which advances goals of humanity and is in interests of nation-states will eventually be recognized as legal.
+- *States* are interesting. Theoretically it is a form how population organizes itself and should be concerned only about internal affairs, external security and wellbeing of state (whatever it means), but practically in literature there's divergent thought of what nation-state is about. But in practice corruption, populism and lobbying of special interests are prevailing problems in states that question the basic assumption that it cares first for its population. The good news is that state's goals are not in conflict with goals of humanity, but the bad news is that humanity isn't the first priority of states.
+- *International institutions* have a clearly set formal that mostly is aligned or doesn't conflict with goals of humanity. Therefore international institutions can be regarded as at least neutrals for humanity.
 
-- *Corporations* are primary profit-seekers, and thus logically would contribute to the only if that will increase their profits or at least won't harm it. Furthermore, these profits are distributed to special interests insteads of good for the whole humanity. Of course it would be easy to align goals with some of the corporations, but not all of them (for example try ending war without harming military industry, or slavery without harming human trafficing cartels), and lots of them are somewhere in the middle. Thus I would say that corporations aren't foes as long they don't hinder the given goals of humanity, but in the same time are not friends as their inherit motivation is not aligned with goals of humanity.
-
-- *NGOs* are the best friends. First, they are driven by goals of humanity as a core principle, in their own way in their own discipline. Obviously they have income (as well material donations and voluntary work) and expenses as corporations do, but we may say that they commit all profits towards humanity.  Understandably, their goals not always coincide with goals of nation-states or corporations - for example Red Cross provide healthcare to rebels in name of "Everyone has right to health" or internet activists makes freely available otherwise expensive scientific papers in name of "Information should be free". Obviously, there's a still ongoing discussion whenever that's legal (concept of nation-state) to aid enemy of nation-state, and the answer may vary from nation-state to nation-state. Or if that's legal to steal information to share it with humanity, or even if term "stealing" can be applied to information as nothing is lost in contrast to stealing resources. Also, even slavery once was legal. So let's assume that everything which advances goals of humanity and is in interests of nation-states will eventually be recognized as legal.
-
-- *States* are interesting. Theoretically it is a form how population organizes itself and should be concerned only about internal affairs, external security and wellbeing of state (whatever it means), but practically in literature there's divergent thought of what nation-state is about. But in practice corruption, populism and lobbying of special interests are prevailing problems in states that question the basic assumption that it cares first for its population. The good news is that state's goals are not in conflict with goals of humanity, but the bad news is that humanity isn't first priority of states.
-
-- *International institutions* have a clearly set formal that mostly is aligned or doesn't conflict with goals of humanity. Therefore internation institutions can be regarded as at least neutrals for the of humanity.
-
-
-The resulting enduser of given goals is humanity itself, so results should be owned by humanity and actions should be accountable to humanity - this implies transparency, sharing and co-participation.
-
+The resulting end user of given goals is humanity itself, so results should be owned by humanity and actions should be accountable to humanity - this implies transparency, sharing and co-participation.
 
 
 
@@ -138,7 +143,9 @@ Decision-making process [REVIEW v1]
 -------------------------------------------------------------------------------
 > Target: 1000 words
 
-Finally its time to expand on the decision-making process itself. Naturally, it consists of proposing, discussion and decision phases, where each of them are facilited by agents participating in the process. While each agent internally is free to impose any governance model, the interaction between sovereign agents can be only democratic (otherwise they wouldn't be sovereign anymore). For that matter I propose to build upon Liquid Feedback system for proposition development and decision making. It has already done the heaving lifting of defining the processes that I will summarize in the next chapter. Liquid Feedback assumes one-agent-one-vote axiom as in great democracy, but I would like to relax that in order to harness ideas and contribution to discussions of questionable agents while limiting their impact on decision making. The overview of these modifications are laid out in second chapter, but the new rules of liquid voting power and their dynamics are described in the third chapter.
+[ Intro paragraph: TODO ]
+
+Finally it's time to expand on the decision-making process itself. Naturally, it consists of proposing, discussion and decision phases, where each of them are facilited by agents participating in the process. While each agent internally is free to impose any governance model, the interaction between sovereign agents can be only democratic (otherwise they wouldn't be sovereign anymore). For that matter I propose to build upon Liquid Feedback system for proposition development and decision making. It has already done the heaving lifting of defining the processes that I will summarize in the next chapter. Liquid Feedback assumes one-agent-one-vote axiom as in great democracy, but I would like to relax that in order to harness ideas and contribution to discussions of questionable agents while limiting their impact on decision making. The overview of these modifications are laid out in second chapter, but the new rules of liquid voting power and their dynamics are described in the third chapter.
 
 
 ### Proposition development process [REVIEW v1]
@@ -168,7 +175,7 @@ For global community with diverse and fluid amount of agents that has to be exte
 
 That should work great in closed communities that has centralized membership status, but in global community it doesn't stand true. Therefore for liquid inclusion process we allow registration of any participant, regardless that's a human or entity like NGO or corporation. Such self-registered participants won't own any votes and in combination with above mentioned measures against "loud minorities" they can't harm the system. But what they can do is participate in discussions, propose incentives and even vote in rare cases when someone with voting power has deleged it to them. That would allow any human to participate in humanity's affairs, ensuring the human right to speak and to be heard without undermining sovereignity of global community agents. Also, such mechanism will provide staging grounds where to look for potential new vote-eligible participants.
 
-### Dynamic voting power of participants [DRAFT]
+### Dynamic voting power of participants [REVIEW v1]
 
 Also Liquid Feedback sticks to "one participant one vote" rule like democracies does, but I want to point out another difference in usage here. Liquid Feedback, as well democracies are designed to be consisted of humans only, implying that "participants" are all made of flesh-and-bones and are equal in rights and (at least some of) motivations. Also the question of "being the participant or not" is left out of scope. But when designing democratic process for global community we have various agent types (and frankly none of them is human) that inheretly are not equal in rights and motivations as discussed above, as well are made of diverse structures even within one agent type (i.e. state can be either democratic or monarchy). Despites we have clear criterias for inclusion of state and nevertheless their amount doesn't change often, it's not clear at all which international institutions, NGOs and corporations should be included, furthermore they rise and fall more frequently than states. I call static approach "one participant one vote" not applyable to this dynamic case.
 
@@ -202,10 +209,7 @@ The rating would proceed as follows. At regular intervals (i.e. 2 years), all pa
 Trustworthy and constructive agents are empowered via vote delegation, and effective decision implementators are empowered via vote distribution. Tactical saboteurs are recognized via transparency and remembered via history. That together should create virtious loop to empower collaborative agents and neutralize revealed selfish saboteurs.
 
 
-#### [Random phrases & ideas to this chapter]
-
-"The proposal is as follows: States, NGOs and Internation institutions come together "to the table of ABC". Corporations are ok to be around but doesn't have any formal voting power. The main idea is that NGOs do their calling for positive impact, states and other international institutions keep corporations in check to not commit negative impact, and everyone indirectly helps NGOs. Meanwhile ABC serves as a humanity's distributed platform for proposals, discussion and decision-making.""
-
+axiom: most of states are interested to do something.
 
 
 Enforcement [DRAFT]
@@ -386,6 +390,7 @@ References [DRAFT]
 
 [4] Budescu, D. V., & Nevo, B. (1985). Optimal number of options: An investigation of the assumption of proportionality. Journal of Educational Measurement, 22(3), 183-196.
 
+[5] Bull, H. (2012). The anarchical society: a study of order in world politics. Palgrave Macmillan.
 
 
 
