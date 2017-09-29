@@ -116,7 +116,7 @@ Nevertheless, in context of emerging neomedievalism, the task is ambitious: to e
 
 ### 2. Since the impact of any proposal will extend significantly into the future, every proposal needs to take into account not only humanity today, but future generations as well.
 
-It is self-evident that any action has consequences. These consequences impact humanity today, but will also impact that portion of humanity that is yet to be born. In a sense, these future generations are the minority that is most discriminated against, since they have to deal with the waste and deferred problems of the current generation, and have little or no representation amongst the five types of agents mentioned above. 
+It is self-evident that any action has consequences. These consequences impact humanity today, but will also impact that portion of humanity that is yet to be born. In a sense, these future generations are the minority that is most discriminated against, since they have to deal with the waste and deferred problems of the current generation, and have little or no representation amongst the five types of agents mentioned above.
 
 
 (Politics) Who is on the side with goal [REVIEW v1]
@@ -208,10 +208,8 @@ The rating would proceed as follows. At regular intervals (i.e. 2 years), all pa
 Trustworthy and constructive agents are empowered via vote delegation, and effective decision implementators are empowered via vote distribution. Tactical saboteurs are recognized via transparency and remembered via history. That together should create virtuous loop to empower collaborative agents and neutralize revealed selfish saboteurs.
 
 
-axiom: most of states are interested to do something.
 
-
-Enforcement [DRAFT]
+Enforcement [REVIEW v1]
 -------------------------------------------------------------------------------
 > Target: 500 words
 
@@ -222,10 +220,13 @@ For enforcement, I see 4 setups to organize enforcement:
 3. there is some common good that is shared among members and everyone is intimated to behave by threats to be denied to this good
 4. there is a straightforward public feedback on member actions and everyone is intimated to behave by peer pressure
 
-For enforcement, I see that peer pressure mechanism emerges naturally by providing straightforward and public feedback on member actions via ranking discussed above. Like in old days with the race to the Moon, states are expected to compete with their rivals in the eyes of all the rest states.
+For enforcement, I see that fourth option, the peer pressure mechanism emerges naturally out of everything discussed so far. First, everyone is free to observe agent's decisions, involvement and attitude within the proposition platform and everyone has a straightforward measurement of agent's contributions to humanity from the rating. There's an inherent reward: agent's want to contribute either via constructive discussions to hold more delegated votes, and to contribute directly to implementation of decisions to gain higher rating and thus own more votes.
 
+My axiom is that at least some of these agents are good in a sense that they wish humanity to prosper and is willing to contribute towards that. The reason is simple - if that's not true, any democratic process will fail (and we should resort to tyrannical methods in hopes that leader itself will be benevolent and be capable to purge the majority). In case of this proposal, the platform will turn out very empty-worded with little of practical use, or rather very biased towards the special interests of some agent. In such worst case the platform with all its transparency and inclusion will serve as a reality-check mirror for those who bothers to look into it. The good news is that the down-side is shallow and soft, if not a bit beneficial.
 
-We choose peer pressure
+Given that at least some of agents are good in their nature, we have to turn to game theory for discussion. From Axelrod's book "The evolution of cooperation" we can have three important takeaways. First, for trust and cooperation to evolve the milestones of nurturing environment are repeat interactions, low miscommunication and possible win-wins. We have repeat interactions granted as the world is connected more than ever. Organized communications between more than hundred parties always has been a challange and Liquid Feedback structured process covers that this part. But possible win-wins is hard to assume in the great diversity of agents, therefore via distribution of vote power we increase the leverage of good cooperating agents over others.
+
+One may wonder why agent should care about this system at all and wouldn't ignore it instead. That's a very valid point, because proposed system indeed is a closed loop by design. For that matter, I would like to highlight again the importance of rating. In the end, the amount of owned votes plus deleged votes held by an agent can be his ultimate score. That is simple and finally measurable. Simplicity is a great virtue, especially when dealing with masses, like humans that make up "humanity". For humans within democracies I expect they will demand their government to have a good rating.For humans as consumers I hope they will prefer corporations with better rating. For agents dealing in global affairs I expect them to take into account the rating of involved parties. For institutions like European Union I expect them to advocate high ratings. For everyone who want to see context and attitude is welcome to read through agent's history of activity in platform. As a platform providers we have the responsibility to both develop platform in terms of features and amount of active participants, as well promote the rating and results of them.
 
 
 
@@ -391,7 +392,7 @@ References [DRAFT]
 
 [5] Bull, H. (2012). The anarchical society: a study of order in world politics. Palgrave Macmillan.
 
-
+[6] Axelrod, R., & Axelrod, R. M. (1984). The evolution of cooperation (Vol. 5145). Basic Books (AZ).
 
 
 
