@@ -99,33 +99,29 @@ Defining beneficiaries of "General model for Decision-making". [REVIEW v1]
 -------------------------------------------------------------------------------
 > Target: 500 words
 
-Let's open with a brave statement that everyone could agree on: humanity should be the beneficiary. That statement involves a few tricks on which I would like to expand more.
+Everyone could agree on a statement that humanity should be the beneficiary of every decision made in the new governance model. Above mentioned Sovereign agents are the real decision makers with the power and resources to make the best or the worst for humanity. This chapter will be dedicated to describe the concept of humanity and Sovereign agents relationships with each other in a wider perspective than we are used to in everyday lives.
 
+Everyone could agree on a statement that humanity should be the beneficiary of every decision made in the new governance model. Above mentioned Sovereign agents are the real decision makers with the power and resources to make the best or the worst for humanity. This chapter will be dedicated to describe the concept of humanity and Sovereign agents relationships with each other in a wider perspective than we are used to in everyday lives.
 
-### 1. Thanks to huge variety in nearly every measurable way, there is no representative agent that all of humanity one could listen to or directly support.
-
-We do have many agents of one of five types discussed above, but none of them is humanity itself. In other words, humanity is not a agent per se. And we can't just pick and use a specific agent as a proxy for humanity, because that would be discriminating against population that the lucky agent doesn't represent. Here I see two strategies how to benefit humanity in such conditions:
+Thanks to huge variety in nearly every measurable way, there is no representative agent that all of humanity one could listen to or directly support. We do have many agents of one of five types discussed above, but none of them is humanity itself. In other words, humanity is not an agent per se. And we can't just pick and use a specific agent as a proxy for humanity, because that would be discriminating against populations that the lucky agent doesn't represent. Here I see two strategies that might benefit humanity in such circumstances:
 
 1. Unite multiple agents so that sum of those agent's represented populations in total cover all humanity.
-2. Give birth to a new agent type that directly represents most of all humanity.
+2. Give birth to a new agent type that directly represents most or of all humanity.
 
 Given that the second strategy would involve, for all practical purposes, the turning over of full sovereignty to a planet-wide super-government, this proposal will focus on the #1 strategy.
 
-Nevertheless, in context of emerging neomedievalism, the task is ambitious: to either improve an existing international organization like the UN to be effective over all types of agents, or to design a brand new entity.
+Nevertheless, in the context of emerging neomedievalism, the task is ambitious: to either improve an existing international organization like the UN to be effective over all types of agents, or to design a brand new entity.
 
-
-### 2. Since the impact of any proposal will extend significantly into the future, every proposal needs to take into account not only humanity today, but future generations as well.
-
-It is self-evident that any action has consequences. These consequences impact humanity today, but will also impact that portion of humanity that is yet to be born. In a sense, these future generations are the minority that is most discriminated against, since they have to deal with the waste and deferred problems of the current generation, and have little or no representation amongst the five types of agents mentioned above.
+Since the impact of any proposal will extend significantly into the future, every proposal needs to take into account not only humanity today, but future generations as well. It is self-evident that any action has consequences. These consequences impact humanity today, but will also impact that portion of humanity that is yet to be born. In a sense, these future generations are the minority that is most discriminated against, since they have to deal with the waste and deferred problems of the current generation, and have little or no representation amongst the five types of agents mentioned above.
 
 
 (Politics) Who is aligned with the goal [REVIEW v1]
 -------------------------------------------------------------------------------
 > Target: 700 words
 
-[ Intro: What is the “goal”? What means the word “side”? What this chapter is about? ]
+No man can save the humanity alone. Nor can platform. t is important to understand who is aligned with the goal, who is the opponent and who changes its sides depending on circumstances. Remembering that the goal is to face risks and threats to humanity in the best possible way, this chapter is an evaluation of all influential parties (sovereign agents) and their reasons.
 
-The first interesting conclusion from agent types is that only NGOs are directly and inheretly aligned with the given goal. Corporations and illicit groups are opponents, but states and international organizations are neutral.
+The first interesting conclusion from agent types is that only NGOs are directly and inheretly aligned with the given goal. Corporations and illicit groups are opponents, but states and international organizations are neutral to the goal.
 
 The first interesting conclusion from agent types is that only NGOs are directly and inherently aligned with the given goal. Corporations and illicit groups are opponents, but states and international organizations are neutral.
 - *Illicit* are organized in a similar way to corporations and seek either profits and/or ideological goals. But they seek these by dirty means and within illegal industries that are directly opposed to humanity’s goals, for example, in human trafficking, heavy drug cartels, mafia,  etc. These groups might be referred to as opponents.
@@ -146,18 +142,19 @@ Decision-making process [REVIEW v1]
 
 Finally it’s time to expand on the decision-making process itself. Naturally, it consists of proposing, discussion and decision phases, where each of them are facilitated by agents participating in the process. While each agent internally is free to impose any governance model, the interaction between sovereign agents can be only democratic (otherwise they wouldn't be sovereign anymore).
 
-For that matter I propose to build upon Liquid Feedback system for proposition development and decision making. Liquid Feedback assumes one-agent-one-vote restriction as in great democracy, but I would like to relax it. That would allow to harness ideas and contribution to discussions of questionable agents, while limiting their impact on decision making. The overview of these modifications are laid out in second chapter, but the new rules of liquid voting power and their dynamics are described in the third chapter.
-
+For that matter I propose to build upon Liquid Feedback system for proposition development and decision making. Liquid Feedback assumes one-agent-one-vote restriction as in democracy, but I would like to relax it. That would allow to harness ideas and contribution of questionable agents, while limiting their impact on decision making. In the first chapter there will be an overview of Liquid feedback. In the second chapter slight modifications will be proposed to accommodate for non human participants. New rules of liquid voting power and their dynamics are described in the third chapter.
 
 ### Proposition development process [REVIEW v1]
 
 Liquid Feedback recognizes drawbacks of current implementations, most notable being "loud minority" problem, "illusion of consensus" problem and "populism" problem. It proposes 4 step process that not only suppresses these problems, but also increases overall proposition quality.
 
+Liquid Feedback is a platform for writing, discussing and approving propositions in a democratic manner. It recognizes drawbacks of current democracy implementations, most notable being "loud minority", "illusion of consensus" and "populism" problems. A 4 step process is introduced that not only suppresses these problems, but also increases overall proposition quality.
+
 For proposition development Liquid Feedback has done a great work and there's nothing much to add or remove. To learn more about it, please refer to their manual [7], as here will be a brief summary relevant for context of this essay.
 
 In this system anyone can write a proposal to change anything within postulated domain. First step is to gain sufficient activity among vote-holders within a set timeframe in order to advance to next step, otherwise it is discarded early as irrelevant. This ensures that each proposal that passes first step is worth to discuss about.
 
-Another important factor is how proposals show up for platform users - they are presented as stream but smartly ordered. The point is that it’s impossible to gain attention by "spamming" proposal multiple times by the same group, so that all vote-holders are represented more or less equally at the top (formulas can be found in the Liquid Feedback manual [7]). This solves "loud minority" problem at this stage.
+Another important factor is how proposals show up for platform users - they are presented as a smartly ordered stream. The point is that it’s impossible to gain attention by "spamming" proposal multiple times by the same group, so that all vote-holders are represented more or less equally at the top (formulas can be found in the Liquid Feedback manual [7]). This solves "loud minority" problem at this stage.
 
 The second step is called discussion phase, the longest of all four steps. The original content of proposal becomes "alternative #1 solution to problem X". During this step users are expected to comment on original proposal to solve the described problem, and the author of alternative #1 solution is expected to cooperate with others to improve its proposal. Obviously at some point disagreement will come and in that case anyone is free to take up initiative and create "alternative #2" solution under the same problem, which also receives comments and is improved alongside. Multiple alternatives are encouraged as that discovers various possible solutions. This phase gives time to problem and solutions to mature before next two voting phases.
 
@@ -176,9 +173,7 @@ In Liquid Feedback there's one vote per participant and the delegated voting (a.
 
 Vote splitting respects diverse internal affairs of agents. For example, president of a state can keep it for himself (as in monarchies), or evenly distribute within its population (as in democracies). The same works for NGOs or any other agent - it’s up to them how to distribute the vote best. Wide distribution is welcome as it facilitates co-participation and therefore gives responsibility to humanity itself.
 
-For global community with diverse and fluid amount of agents that has to be extended.
-
-That should work great in closed communities that has centralized membership status, but in global community it doesn't stand true. Therefore for liquid inclusion process we allow registration of any participant, regardless that's a human or entity like NGO or corporation. Such self-registered participants won't own any votes and in combination with above mentioned measures against "loud minorities" they can't harm the system. But what they can do is participate in discussions, propose incentives and even vote in rare cases when someone with voting power has delegated it to them. That would allow any human to participate in humanity's affairs, ensuring the human right to speak and to be heard without undermining sovereignty of global community agents. Also, such mechanism will provide staging grounds where to look for potential new vote-eligible participants.
+Vote distribution is simple  in closed communities that has centralized membership status, but in a global community with diverse and fluid amount of agents that is expected to increase it becomes a problem. Therefore for liquid inclusion process we allow registration of any participant, regardless that's a human or entity like NGO or corporation. Such self-registered participants won't own any votes and in combination with above mentioned measures against "loud minorities" they can't harm the system. But what they can do is participate in discussions, propose incentives and even vote in rare cases when someone with voting power has delegated it to them. That would allow any human to participate in humanity's affairs, ensuring the human right to speak and to be heard without undermining sovereignty of global community agents. Also, such mechanism will provide staging grounds where to look for potential new vote-eligible participants.
 
 ### Dynamic voting power of participants [REVIEW v1]
 
@@ -211,7 +206,7 @@ Please rate member "X" contribution to implementation of decisions made within L
 	7. No effort nor usefull contribution.
 ```
 
-The rating would proceed as follows. At regular intervals (i.e. 2 years), all participants come together to perform voting physically, or probably don't come together and do it digitally. Each participant answers the question and provides expected distribution of answers for each peer. Then all the answers are processed according to Bayesian Truth Serum method (more details on this at implementation chapter below) to get a result - each participant has his category. Then, according to category voting power is distributed. For example, #1 category gets 100%, #2 - 80%, #3 - 60%, #4 - 45%, #5 - 30%, #6 - 15%, #7 - 5%. The exact mapping of category to voting power is open for improvements. Then for the next period, each participant owns a new amount of voting power.
+The rating would proceed as follows. At regular intervals (i.e. 2 years), all participants come together to perform voting physically, or probably don't come together and do it digitally. Each participant answers the question and provides expected distribution of answers for each peer. This voting is done anonymously in order to prevent "witch hunting" and coalitions. Then all the answers are processed according to Bayesian Truth Serum method (more details on this at implementation chapter below) to get a result - each participant has his category. Then, according to category voting power is distributed. For example, #1 category gets 100%, #2 - 80%, #3 - 60%, #4 - 45%, #5 - 30%, #6 - 15%, #7 - 5%. The exact mapping of category to voting power is open for improvements. Then for the next period, each participant owns a new amount of voting power.
 
 Trustworthy and constructive agents are empowered via vote delegation, and effective decision implementators are empowered via vote distribution. Tactical saboteurs are recognized via transparency and remembered via history. That together should create virtuous loop to empower collaborative agents and neutralize revealed selfish saboteurs.
 
@@ -403,6 +398,9 @@ References [DRAFT]
 [7] Behrens, J., Kistner, A., Nitsche, A., & Swierczek, B. (2014). The principles of LiquidFeedback. Berlin: Interaktive Demokratie e. V..
 
 [8] Prelec, D., & Seung, S. (2006). An algorithm that finds truth even if most people are wrong. Unpublished manuscript.
+
+
+
 
 Attachments [DRAFT]
 ===============================================================================
