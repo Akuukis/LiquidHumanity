@@ -238,19 +238,17 @@ One may wonder why agent should care about this system at all and wouldn't ignor
 
 
 
-
-(Implementation) Required tools and technology [DRAFT]
+Required technology and resources [REVIEW]
 -------------------------------------------------------------------------------
 > Target: 700 words
 
-LiquidFeedback (re-implemented on blockchain)
+Technically, the proposed governance model assumes that each agent has access to computer and internet, which nowadays is widespread enough. Besides that, we already have all technology available to make it happen, and only two specific technological implementations are neccessary:
 
-Universal ID - humaniq.co - everyone needs bio ID to log into liquid feedback system.
+* Modified LiquidFeedback for proposal platform. Currently LiquidFeedback platform is already implemented and working, but it requires additional improvement to functionality as discussed above, as well a modern user interface overhaul.
+* Cryptographic solution for anonymous but validable rating. [peteris help! Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse]
 
-Benevolent dictator for life
-
-Cryptography to provide anonymity in voting
-
+As a improvement in the long run I see at least two technological upgrades. First is to re-implement LiquidFeedback on the blockchain. The decentralized nature of blockchain would greatly benefit the platform because any central authority that has control over the platform would undermine the decentralized nature of neomedievalism itself. Although it could be ok to form a entity dedicated to hold this platform for a while until it is re-implemented in a decentralized way, I don't see agents buying centralization in the long term. Second is external decentralized identity management. Currently identity management is clustered where mostly states holding the registries of both citizens, incorporated firms and NGOs that also yields several restrictions. Over first years while platform matures, I see entities (human or not) to endorse their legitimacy with profiles on the platform, but that gets tricky to integrate without standardized identity management solution. Already there are emerging various solutions (humaniq.co, bitnation.co, and others) and we should keep our eyes open for the most prominent or at least compatible one for platform.
 
 
 
