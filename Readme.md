@@ -59,9 +59,8 @@ From Westphalian to Neomedieval world order / Beyond International order [REVIEW
 -------------------------------------------------------------------------------
 > Target: 700 words
 
-Lets open this chapter top down. According to H. Bull, *World Order* is patterns or dispositions of human activity that sustain the elementary or primary goals of social life among mankind as a whole, but *International Order* is such order among states only. Last few centuries, international order was a good proxy for world order because states were predominant de facto forms of sovereign actors within the world community. Unfortunely or perhaps luckily, there are multitude of authors[1] that see a decline of states system for already few decades, although they don't agree on what will take its place. Nevertheless, as states are declining the well studied international order is little of use for understanding the less studied world order in future and already today. There are various guesses what's coming next and each of them have very different implications for the future, but that discussion is out of scope of this paper. Therefore I will move on with the school of though that sees our time as a transition into a new world order of durable chaos within *Neomedieval order*, and here's why it was chosen.
-
-What we see today around is that states share the world politics with a multitude of non-state actors: organizations such as the United Nations, companies such as Apple, nonprofit groups such as Red Cross, and various drug cartels and terrorist organizations. Many of these nonstate actors wield power globally on par with state actors, rendering the state-centric Westphalian order weak if not impossible. If that stands true, current world order would best be described as *neomedievalism*: "a non-state-centric, multipolar international system of overlapping authorities and allegiances within the same territory".[2] For some, neomedievalism represents an alternative to the Westphalian order, as showed by Philip Cerny, Mark Duffield, Stephen Kobrin, Jörg Friedrichs, and others. This proposal builds builds upon this worldview.
+Lets open this chapter top down. According to Hedley Bull, *World Order* is characterized by patterns or dispositions of human activity that sustain the elementary or primary goals of social life among mankind as a whole, while *International Order* is order among states only. Over the last few centuries, international order was a good proxy for world order because a state was the predominant form of sovereign actors within the world community. Unfortunately -- or perhaps luckily -- there are a multitude of authors[1] that have written about a decline of the system of states for several  decades, although there is disagreement on what will take its place. Nevertheless, as states decline, the well-studied international order is of little use for understanding the less-studied world order of today, let alone of the future. There are certainly a variety of guesses about what's coming next, and each of them have very different implications for the future, but that discussion is out of the scope of this paper. Therefore I will move on with the school of thought that sees our time as a transition into a new world order of durable chaos within the “*Neomedieval order*”, and why it was chosen.
+What we see today around is that states share the politics of the world order with a multitude of non-state actors: organizations including the United Nations, companies such as Apple, nonprofit groups like the  Red Cross, and of course, a variety of drug cartels and terrorist organizations. Many of these nonstate actors wield power globally on a par with state actors, rendering the state-centric Westphalian order weak at best, if not imminently collapsing. If that is true, the current world order might best be described as *neomedievalism*: "a non-state-centric, multipolar international system of overlapping authorities and allegiances within the same territory".[2] For some, neomedievalism represents an alternative to the Westphalian order, as showed by Philip Cerny, Mark Duffield, Stephen Kobrin, Jörg Friedrichs, and others. This proposal builds upon this worldview.
 
 Sean McFate in his book "Modern Mercenary" summarizes the importance of shifting the perspective on world affairs:
 
@@ -76,10 +75,10 @@ Hedley Bull:
 
 In neomedievalism, independent political actors in world affairs are categorized in different types of *Sovereign agents*:
 
-- *states* that are diverse at all dimensions: integrity (strong North Korea vs weak Somalia), demography (old Norway vs young Sri Lanka), political system, size, etc.
-- *international organizations* "they allow states to pool their sovereignty and claim authority over individual member states for the greater good", but "some international organizations [have] sought to transform themselves from a world stage for international relations into an actor upon it", like The International Criminal Court.
+- *states* that are diverse in several dimensions: integrity (strong North Korea vs weak Somalia), demography (old Norway vs young Sri Lanka), political system, size, etc.
+- *international organizations* "... allow states to pool their sovereignty and claim authority over individual member states for the greater good", but "some international organizations [have] sought to transform themselves from a world stage for international relations into an actor upon it", like The International Criminal Court.
 - *Non-government organizations (NGOs)* "are international nonprofit groups that operate independently of governments to provide humanitarian services directly to people", like Red Cross. For example, the Universal Declaration of Human Rights, the R2P doctrine, and the ICC all claim universal jurisdiction alongside states, as did the medieval church, based on the commitment to the rights inherent in every human.
-- *Multinational corporations* "foremost allegiance is to their shareholders [..], and their chief concern is profit rather than king and country."
+- *Multinational corporations*' "foremost allegiance is to their shareholders [..], and their chief concern is profit rather than king and country."
 - *Illicit groups* such as global terrorists, insurgents, drug cartels, and international criminal organizations are a third type of transnational actor on the rise. Unlike terrorist groups, which are nominally motivated by ideology, international criminal organizations seek profits and resort to violence, are self-governing and operate in a borderless manner.
 
 In addition, integrity (DEF: the state of being whole, entire, or undiminished) matters. For example ...
@@ -90,7 +89,8 @@ Defining beneficiaries of "General model for Decision-making". [REVIEW v1]
 -------------------------------------------------------------------------------
 > Target: 500 words
 
-Let's open with a brave statement that everyone could agree on - humanity should be the beneficiary. That statement involves few tricks on which I would like to expand more.
+Let's open with a brave statement that everyone could agree on: humanity should be the beneficiary. That statement involves a few tricks on which I would like to expand more.
+
 
 ### 1. In its width, there's no representative agent of whole humanity one could listen to or directly support.
 
@@ -99,9 +99,9 @@ We do have many agents of one of five types discussed above, but none of them is
 1. Unite multiple agents so that sum of those agent's represented populations in total cover all humanity.
 2. Give birth to a new agent type that directly represents most all humanity.
 
-This proposal is about the 1. strategy.
+This proposal is about the #1 strategy.
 
-Nevertheless, in context of emerging neomedievalism, the task is ambitious - to either improve an existing internation organization UN to be effective over all types of agents, or design a brand new entity that would be.
+Nevertheless, in context of emerging neomedievalism, the task is ambitious: to either improve an existing international organization like the UN to be effective over all types of agents, or to design a brand new entity that would be.
 
 
 ### 2. In its timelessness, not only living humans but also future generations should be considered.
