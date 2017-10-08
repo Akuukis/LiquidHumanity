@@ -1,280 +1,273 @@
-> Introduction
->
-> https://globalchallenges.org
->
-> Today, mankind lives not only in national societies, but also in a global community. This means that the behavior and decisions of the *inhabitants of nation states* also impact the vital interests of inhabitants of other countries. *Global warming* may be the most obvious example: Greenhouse gas emissions in any particular country will have an impact on global climate change.
->
-> The world community is facing a number of major global challenges which have to be *jointly managed by all countries* through increased co-operation and an increased understanding of our interconnectedness. Other than climate change, the major problems and risks are other large-scale environmental damage and politically motivated violence (war, civil war, terrorism, weapons of mass destruction). Other major problems faced are extreme poverty and rapid population growth.
->
-> Rapid population growth – the global population has quadrupled over the last 100 years (which is one of the main reasons for the problem we face today), and is expected to increase by another 50 percent by the year 2100 – exacerbates all these problems. Despite this, and despite the knowledge that there are not nearly *enough resources on the planet* for the entire population of Earth to enjoy the *current Western standard of living*, the issue is not on the political agenda.
->
-> In order to manage these challenges, we need effective ways of making *collectively binding, long-term decisions* that take into account the *interests of all those affected, including future generations*. The system currently in place to manage these issues – including the UN and the organizations connected with the UN – are, in their present form, not up to the task. Today, these challenges are responded to using yesterday’s tools – multilateral negotiations which are susceptible to short-term national interests. As a consequence, the necessary action is either not taken or is taken too late, while the problems and risks continue to grow.
->
-> The Global Challenges  Foundation wants to challenge participants from all over the world to formulate alternatives to the present state of affairs – either by *complementing, strengthening and revising the present UN system*, or by *proposing completely new forms of governance*. The proposals should be drafted with the aim of *identifying* and, as far as possible, *preventing or minimizing challenges* of the kind mentioned above.
-
-
-
-```
-[
-STATUS:
-	* DRAFT - has to write stuff
-	* REVIEW v1 - has to review content
-	* REVIEW v... - has to review content by another person
-	* PROOFREAD - has to proofread
-	* DONE - don't touch anymore
-]
-```
-
-
-Abstract [DRAFT]
-===============================================================================
-> 1000 words max
-
-This essay consists of:
-
-Description of today’s governance model;
-Definition of the target group - humanity;
-Understanding of all decision-making groups involved;
-
-All further chapters are devoted to the new governance model.
-The description of the new model consists of:
-Decision making process;
-Enforcement, implementation and roadmap;
-And also an example of a working system.
+﻿> Rules & Criterias: [globalchallenges.org](https://globalchallenges.org)
 
 
 
 
+Abstract
+================================================================================
 
+No man can save humanity alone, nor can a platform. This essay recognizes that world order is changing into neomedievalism, and therefore it looks for allies and inclusion of other influential agents beyond states, especially international NGOs. To realize a non-state centric governance, I propose a new governance model;LiquidHumanity. Proposition development, and decision making processes are based on the LiquidFeedback method, with modifications. Managing the the list of participants - to add or remove - is managed via decision on those same propositions. The weight of a participant’s votes are distributed based on peer rating of others’ contribution using the Bayesian Truth Serum method. Under the assumption that some of the agents are good (in a sense that they wish humanity to prosper and are willing to contribute towards that), the overarching governance model should empower and support those that are good, and at the same time, shine a bright light on freeriders and dynamically downplay the influence of saboteurs.
 
-Description of the model [REVIEW v1]
-===============================================================================
-> Task (5500 words max)
->
-> The participant must *design a governance model* able to effectively address the most pressing *threats and risks to humanity*. In other words, the task is not to come up with direct solutions to specific problems. Rather, it is to design a *general model for decision-making*, with the aim of *generating such solutions* and the *ability to do so*, and possessing the resources to *effectively implement them*.
->
-> The governance model must also be such that it can be *implemented within the foreseeable future*. This requires that it be *acceptable to major states and the wider international community*. A significant measure of civic acceptance is also required. This requirement *eliminates models that rely on time-consuming and controversial changes in the political system of individual states*, e.g. models that postulate that all states should be democracies.
->
-> Furthermore, the governance model must involve a *minimum of limitations to the sovereignty* of *nation-states*, meaning that it should involve only such limitations as are necessary to ensure that national decisions do not seriously harm the vital interests of inhabitants of other countries, or of humanity as a whole. In other words, decisions within the governance model must *not deal with the internal affairs of individual states*.
+This essay will begin with a general discussion of the current world order and the implications of neomedievalism, followed by the choice of strategy on how to benefit humanity within neomedievalism. Afterwards, we analyze alignment and potential allies within agents of neomedievalism, because no man nor platform can nurture humanity alone. The remaining chapters are devoted to the LiquidHumanity governance model itself, explaining its capability to coordinate and empower allied agents, while suppressing harmful behavior.
 
+The governance model is laid out in four parts. Firstly, it describes how decisions by agents are made and supported within the platform. It includes processes that allow the  constructive harnessing of crowd discussions to assist agents in their decision-making, while directly involving humanity in its own matters. It describes the initial set of participants, as well as how new agents are accepted, or existing participants are thrown out. The model explains how dynamic voting power for each participant effectively promotes honest contributions to the execution of decisions. Lastly, it describes how to measure contribution via peer rating of other’s contribution with Bayesian Truth Serum method.
 
-"No problem can be solved from the same level of consciousness that created it" by Albert Einstein.
+After the governance model, I analyse its enforcement capability using peer pressure, supported by some proposed tools. I argue that it is safe to assume that at least some of these agents are good in the sense that they wish humanity to prosper and are willing to contribute towards that. Given that assumption, and the great leverage provided by those tools, the participants (even if good ones are in minority) will benefit from intercooperation, be able to reward good behavior, and punish bad behaviour within themselves. Afterwards, I argue how the platform with its rating functionality combined with the virtue of simplicity forms a solid base for peer pressure to join the platform and discriminate against agents with bad behaviour outside of it. Lastly, we present how the platform is immune against well-known gaming and tactics, like inviting huge numbers of proxy agents to flood the system and dominate voting.
 
-Since the end of WW2, through Cold War, invention of Computer and the rise of Internet, the world has changed drastically - both the problems humanity face and actors that can act upon it. To understand the whole picture, it's time to look from a fresh perspective. Indeed, the current world order has been in place for more than 3 centuries, so it will be exciting to expose its status quo and work with it within next five thousand words. Lets start with generalization beyond current order, introduction of a new perspective, and describtion of the task within the new context. Then author will finally propose a new governmance model and finish with a roadmap that is executable by tomorrow.
+Finally, I provide three examples to give an idea on how the systems will work together. Despite being a speculative opinion on how that will turn out in normal case, that should give three concrete cases to anchor all abstract into concrete behaviour. The first scenario is a short guess on how it may kick off. The second describes the overview of platform’s dynamics, who does what and how they interact with other. The third is a theoretical case from A to Z how a specific idea proceeds through platform and what impact it makes.
+
+Change is a one-way road to advancement. It’s important to make the right choice for humanity to prosper in the long run.
 
 
 
 
-From Westphalian to Neomedieval world order / Beyond International order [REVIEW v1]
--------------------------------------------------------------------------------
-> Target: 700 words
+Description of the model
+================================================================================
 
-Let's open this chapter top down. According to Hedley Bull [5], *World Order* is characterized by patterns or dispositions of human activity that sustain the elementary or primary goals of social life among mankind as a whole, while *International Order* is order among states only. Over the last few centuries, international order was a good proxy for world order because a state was the predominant form of sovereign actors within the world community. Unfortunately -- or perhaps luckily -- there are a multitude of authors[1] that have written about a decline of the system of states for several  decades, although there is a disagreement on what will take its place. Nevertheless, as states decline, the well-studied international order is of little use for understanding the less-studied world order of today, let alone of the future. There are certainly a variety of guesses about what's coming next, and each of them have very different implications for the future, but that discussion is out of the scope of this paper. Therefore I will move on with the school of thought that sees our time as a transition into a new world order of durable chaos within the “*Neomedieval order*”, and why it was chosen.
-What we see today around is that states share the politics of the world order with a multitude of non-state actors: organizations including the United Nations, companies such as Apple, nonprofit groups like the Red Cross, and, of course, a variety of drug cartels and terrorist organizations. Many of these nonstate actors wield power globally on a par with state actors, rendering the state-centric Westphalian order weak at best, if not applicable. If that is true, the current world order might best be described as *neomedievalism*: "a non-state-centric, multipolar international system of overlapping authorities and allegiances within the same territory".[2] For some, neomedievalism represents an alternative to the Westphalian order, as showed by Philip Cerny, Mark Duffield, Stephen Kobrin, Jörg Friedrichs, and others. This proposal builds upon this worldview.
+> "No problem can be solved from the same level of consciousness that created it" - Albert Einstein.
 
-Sean McFate in his book "Modern Mercenary" summarizes the importance of shifting the perspective on world affairs:
-
-	"Neomedievalism is important because it offers a conceptual lens for understanding the seemingly dissonant and chaotic world order emerging from the ashes of the Cold War that cannot be easily grasped past the conceptual blinders of state-centrism. Rather than rationalizing the paradox in conventional state-centric international relations theory, neomedievalism instead acknowledges the fundamental reorganization and redistribution of power in the system from state to nonstate actors. It embraces the fragmentation of sovereignty and seeks to reorient international relations ideas away from state-centrism and toward an unstructured system of overlapping authorities and allegiances to better comprehend world affairs."
-
-Hedley Bull:
-
-	Modern states have been united in the belief that they are the principal actors in world politics and the chief bearers of rights and duties within it. The society of states has sought to ensure that it will remain the prevailing form of universal political organisation, in fact and in right.
-
-[... summary of Modern Mercenary & its references ...]
-
-
-In neomedievalism, independent political actors in world affairs are categorized in different types of *Sovereign agents*:
-
-- *states* that are diverse in several dimensions: integrity (strong North Korea vs weak Somalia), demography (old Norway vs young Sri Lanka), political system, size, etc.
-- *international organizations* "... allow states to pool their sovereignty and claim authority over individual member states for the greater good", but "some international organizations [have] sought to transform themselves from a world stage for international relations into an actor upon it", like The International Criminal Court.
-- *Non-government organizations (NGOs)* "are international nonprofit groups that operate independently of governments to provide humanitarian services directly to people", like Red Cross. For example, the Universal Declaration of Human Rights, the R2P doctrine, and the ICC all claim universal jurisdiction alongside states, as did the medieval church, based on the commitment to the rights inherent in every human.
-- *Multinational corporations*' "foremost allegiance is to their shareholders [..], and their chief concern is profit rather than king and country."
-- *Illicit groups* such as global terrorists, insurgents, drug cartels, and international criminal organizations are a third type of transnational actor on the rise. Unlike terrorist groups, which are nominally motivated by ideology, international criminal organizations seek profits and resort to violence, are self-governing and operate in a borderless manner.
-
-In addition, integrity (DEF: the state of being whole, entire, or undiminished) matters. For example ...
+The world is changing. Since the end of the Cold War, the invention of the computer and the rise of the Internet -- among others -- both the problems that humanity faces and the actors that can act upon them have changed as well. To understand the whole picture, it's time to look at it from a fresh perspective, and, perhaps, through an even broader lens. Indeed, the current world order has been in place for more than 300 years. We need to understand that the current status quo is older than we typically think, and to move beyond it, we need to also think in new and creative ways. This essay will begin with a general explanation of what exists beyond the current world order, followed by the introduction of a new perspective, and finally, a description of the task within the new context. In turn, I will propose a new governance model that is based on already available technology.
 
 
 
-Defining beneficiaries of "General model for Decision-making". [REVIEW v1]
--------------------------------------------------------------------------------
-> Target: 500 words
 
-Everyone could agree on a statement that humanity should be the beneficiary of every decision made in the new governance model. Above mentioned Sovereign agents are the real decision makers with the power and resources to make the best or the worst for humanity. This chapter will be dedicated to describe the concept of humanity and Sovereign agents relationships with each other in a wider perspective than we are used to in everyday lives.
+From Westphalian to Neomedieval world order
+----------------------------------------
 
-Everyone could agree on a statement that humanity should be the beneficiary of every decision made in the new governance model. Above mentioned Sovereign agents are the real decision makers with the power and resources to make the best or the worst for humanity. This chapter will be dedicated to describe the concept of humanity and Sovereign agents relationships with each other in a wider perspective than we are used to in everyday lives.
+According to Hedley Bull [5], World Order is characterized by patterns or dispositions of human activity that sustain the elementary or primary goals of social life among mankind as a whole, while International Order is order among states only. Over the last few centuries, international order was a good proxy for world order because a state was the predominant form of sovereign actors within the world community. Unfortunately -- or perhaps luckily -- there are a multitude of authors[1] that have written about a decline of the system of states for several decades, although there is a disagreement on what will take its place. Nevertheless, as states decline, the well-studied international order is of little use for understanding the less-studied world order of today, let alone of the future. There are certainly a variety of guesses about what's coming next, and each of them have very different implications for the future, but that discussion is out of the scope of this essay. Therefore, I will move on with the school of thought that sees our time as a transition into a new world order of durable chaos within the “neomedieval order”, and why it was chosen.
 
-Thanks to huge variety in nearly every measurable way, there is no representative agent that all of humanity one could listen to or directly support. We do have many agents of one of five types discussed above, but none of them is humanity itself. In other words, humanity is not an agent per se. And we can't just pick and use a specific agent as a proxy for humanity, because that would be discriminating against populations that the lucky agent doesn't represent. Here I see two strategies that might benefit humanity in such circumstances:
+Today, we see states sharing the politics of the world order with a multitude of non-state actors. Agents such as the United Nations, Apple, the Red Cross, and, of course, a variety of drug cartels and terrorist organizations. Many of these nonstate actors wield power globally on a par with state actors, rendering the state-centric Westphalian order weak at best. If that is true, the current world order might best be described as neomedievalism: "a non-state-centric, multipolar international system of overlapping authorities and allegiances within the same territory"[2]. For some, neomedievalism represents an alternative to the Westphalian order, as showed by Philip Cerny, Mark Duffield, Stephen Kobrin, Jörg Friedrichs, and others. This proposal builds upon this worldview.
+
+Sean McFate in his book "Modern Mercenary" [2] summarizes the importance of shifting the perspective on world affairs:
+
+> "Neomedievalism is important because it offers a conceptual lens for understanding the seemingly dissonant and chaotic world order emerging from the ashes of the Cold War that cannot be easily grasped past the conceptual blinders of state-centrism. Rather than rationalizing the paradox in conventional state-centric international relations theory, neomedievalism instead acknowledges the fundamental reorganization and redistribution of power in the system from state to nonstate actors. It embraces the fragmentation of sovereignty and seeks to reorient international relations ideas away from state-centrism and toward an unstructured system of overlapping authorities and allegiances to better comprehend world affairs."
+
+In neomedievalism, independent political actors in world affairs are categorized in different types of sovereign agents (cited from "Modern Mercenary" [2]):
+
+* States that are diverse in several dimensions: integrity (strong North Korea vs weak Somalia), demography (old Norway vs young Sri Lanka), political system, size, etc.
+* International Organizations "... allow states to pool their sovereignty and claim authority over individual member states for the greater good", but "some international organizations [have] sought to transform themselves from a world stage for international relations into an actor upon it", like The International Criminal Court.
+* Non-government organizations (NGOs) "are international nonprofit groups that operate independently of governments to provide humanitarian services directly to people", like the Red Cross. For example, the Universal Declaration of Human Rights, the R2P doctrine, and the ICC all claim universal jurisdiction alongside states, as did the medieval church, based on the commitment to the rights inherent in every human.
+* Multinational corporations’ "foremost allegiance is to their shareholders [..], and their chief concern is profit rather than king and country."
+* Illicit groups such as global terrorists, insurgents, drug cartels, and international criminal organizations are a third type of transnational actor on the rise. Unlike terrorist groups, which are nominally motivated by ideology, international criminal organizations seek profits and resort to violence, are self-governing and operate in a borderless manner.
+
+Proper inclusion of neomedievalism’s paradigms are essential for any governance model to prosper during upcoming centuries. The following description is built taking into account neomedieval world order, therefore term "sovereign agent" will imply not only states, but any type of agent described above.
+
+
+
+
+Who is the beneficiary of "General model for Decision-making"?
+----------------------------------------
+
+Everyone could agree on a statement that humanity should be the beneficiary of every decision made. Above mentioned sovereign agents are the real decision makers with the power and resources. This chapter will be dedicated to describe the concept of humanity and sovereign agents relationships with each other in a wider perspective than we are used to in everyday lives.
+
+Thanks to a huge variety in nearly every measurable way, there is no representative agent that all of humanity could listen to or directly support. Humanity is not an agent per se. And we can't just pick and use a specific agent as a proxy for humanity, because that would be discriminating against populations that the lucky agent doesn't represent. Here I see two strategies that might benefit humanity in such circumstances:
 
 1. Unite multiple agents so that sum of those agent's represented populations in total cover all humanity.
 2. Give birth to a new agent type that directly represents most or of all humanity.
 
-Given that the second strategy would involve, for all practical purposes, the turning over of full sovereignty to a planet-wide super-government, this proposal will focus on the #1 strategy.
+The second strategy would involve, for all practical purposes, the turning over of full sovereignty to a planet-wide super-government, this proposal will focus on the first strategy.
 
-Nevertheless, in the context of emerging neomedievalism, the task is ambitious: to either improve an existing international organization like the UN to be effective over all types of agents, or to design a brand new entity.
+Nevertheless, in the context of emerging neomedievalism, the task is ambitious; to either improve an existing international organization like the UN to be effective over all types of agents, or to design a brand new entity.
 
-Since the impact of any proposal will extend significantly into the future, every proposal needs to take into account not only humanity today, but future generations as well. It is self-evident that any action has consequences. These consequences impact humanity today, but will also impact that portion of humanity that is yet to be born. In a sense, these future generations are the minority that is most discriminated against, since they have to deal with the waste and deferred problems of the current generation, and have little or no representation amongst the five types of agents mentioned above.
-
-
-(Politics) Who is aligned with the goal [REVIEW v1]
--------------------------------------------------------------------------------
-> Target: 700 words
-
-No man can save the humanity alone. Nor can platform. t is important to understand who is aligned with the goal, who is the opponent and who changes its sides depending on circumstances. Remembering that the goal is to face risks and threats to humanity in the best possible way, this chapter is an evaluation of all influential parties (sovereign agents) and their reasons.
-
-The first interesting conclusion from agent types is that only NGOs are directly and inheretly aligned with the given goal. Corporations and illicit groups are opponents, but states and international organizations are neutral to the goal.
-
-The first interesting conclusion from agent types is that only NGOs are directly and inherently aligned with the given goal. Corporations and illicit groups are opponents, but states and international organizations are neutral.
-- *Illicit* are organized in a similar way to corporations and seek either profits and/or ideological goals. But they seek these by dirty means and within illegal industries that are directly opposed to humanity’s goals, for example, in human trafficking, heavy drug cartels, mafia,  etc. These groups might be referred to as opponents.
-- *Corporations* are primary profit-seekers, and thus logically would contribute towards the goal only if doing so would benefit (or at the very least, not harm) their profitability. Furthermore, these profits are distributed to special interests (the owners, who are generally individuals and not broadly representative of humanity) instead of to the greater good. It theoretically would be easy to align goals in the cases of some of the corporations, but not for all cases -- try ending war without harming the defense industry -- and many are somewhere in the middle. Thus I would say that corporations aren't foes as long they don't hinder the given goals of humanity, but at the same time are not friends as their inherent motivation is not aligned with humanity’s goals.
-- *NGOs* are humanity’s best friends. First, they are driven by humanity’s goals as a core principle, albeit in their own ways and in their own disciplines. They have income and assets -- in the form of donations, investment income, and a stream of material donations and volunteers -- and they have expenses as corporations do, but it wouldn’t be inaccurate to say that they commit all profits towards humanity. Understandably, their goals not always coincide with those of nation-states or corporations - for example the Red Cross provides aid to all participants (government troops, rebels, and civilians) in war zones based on the idea that "Everyone has a right to healthcare", or internet activists (perhaps not strictly speaking an NGO in that they are generally not formally organized) making freely available otherwise expensive scientific papers in the name of Information needing to be free. Obviously, there's the question of whether it’s legal (legality itself being a concept of the nation-state, and one that for particular concepts like slavery or child labor have changed over time) to aid the enemy of a nation-state, with  the answer varying from nation-state to nation-state. Or if it's legal to steal information to share it with humanity -- or even if the term "stealing" can be applied to information as nothing is lost in contrast to stealing resources. Also, even slavery once was legal. So let's assume that everything which advances goals of humanity and is in interests of nation-states will eventually be recognized as legal.
-- *States* are too diverse to be categorized. Theoretically it is a structure in which a given population organizes itself and are primarily concerned about internal affairs, external security and the wellbeing of the state itself (whatever it means), but practically speaking, corruption, populism, and the lobbying by special interests are prevailing problems in states that question the basic assumption that it cares first for its population. The good news is that state's goals are usually not in conflict with goals of humanity, but the bad news is that humanity isn't the first priority of states.
-- *International institutions* have a clearly set formal that mostly is aligned or doesn't conflict with goals of humanity. Therefore international institutions can be regarded as at least neutrals for humanity.
-
-The resulting end user of given goals is humanity itself, so results should be owned by humanity and actions should be accountable to humanity - this implies transparency, sharing and co-participation.
+Since the impact of any proposal will extend significantly into the future, every proposal needs to take into account not only humanity today, but future generations as well. It is self-evident that any action has consequences. These consequences will also impact that portion of humanity that is yet to be born. In a sense, these future generations are the minority that is most discriminated against, since they have to deal with the waste and deferred problems of the current generation, and have little or no representation amongst the five types of agents mentioned above.
 
 
 
-Decision-making process [REVIEW v1]
--------------------------------------------------------------------------------
-> Target: 1000 words
 
-[ Intro paragraph: TODO ]
+Who is aligned with the goal?
+----------------------------------------
 
-Finally it’s time to expand on the decision-making process itself. Naturally, it consists of proposing, discussion and decision phases, where each of them are facilitated by agents participating in the process. While each agent internally is free to impose any governance model, the interaction between sovereign agents can be only democratic (otherwise they wouldn't be sovereign anymore).
+No man can save the humanity alone, nor can a platform. It is important to understand who is aligned with the goal, who is the opponent and who changes its sides depending on circumstances. Remembering that the goal is to face risks and threats to humanity in the best possible way, this chapter is an evaluation of all influential parties (sovereign agents) and their reasons.
 
-For that matter I propose to build upon Liquid Feedback system for proposition development and decision making. Liquid Feedback assumes one-agent-one-vote restriction as in democracy, but I would like to relax it. That would allow to harness ideas and contribution of questionable agents, while limiting their impact on decision making. In the first chapter there will be an overview of Liquid feedback. In the second chapter slight modifications will be proposed to accommodate for non human participants. New rules of liquid voting power and their dynamics are described in the third chapter.
+An analysis of the agent types leads to an initial striking conclusion, only the NGOs are directly and inherently aligned with the given goal. Corporations and illicit groups generally are opposed, and states and international organizations generally are neutral to the goal.
 
-### Proposition development process [REVIEW v1]
+* Illicit groups are organized in a similar way to corporations and seek either profits and/or ideological goals. But they seek these in industries and by means that work at cross-purposes to both states and humanity’s goals. These groups might be referred to as opponents.
 
-Liquid Feedback recognizes drawbacks of current implementations, most notable being "loud minority" problem, "illusion of consensus" problem and "populism" problem. It proposes 4 step process that not only suppresses these problems, but also increases overall proposition quality.
+* Corporations are primary profit-seekers, and thus logically would contribute towards the goal only if doing so would benefit, or at the very least not harm, their profitability. Furthermore, these profits are distributed to special interests (the owners, who are generally individuals and not broadly representative of humanity) instead of to the greater good. It theoretically would be easy to align goals in the cases of some of the corporations, but not for all cases -- try ending war without harming the defense industry -- and many are somewhere in the middle. 
 
-Liquid Feedback is a platform for writing, discussing and approving propositions in a democratic manner. It recognizes drawbacks of current democracy implementations, most notable being "loud minority", "illusion of consensus" and "populism" problems. A 4 step process is introduced that not only suppresses these problems, but also increases overall proposition quality.
+* NGOs can be considered humanity’s best friends, and generally are established, state-recognized organizations, like the Red Cross, with income and assets -- in the form of donations, investments and a stream of material donations and volunteers -- and they have expenses as corporations do, but it wouldn’t be inaccurate to say that they commit all profits towards humanitarian goals. Understandably, their goals not always coincide with those of nation-states or corporations. For example, the Red Cross provides aid to all participants in war zones based on the idea that "Everyone has a right to health care". Over approximately the last 20 years, another breed of non-government organization has emerged in the form of internet activists like Anonymous, which among other things makes freely available otherwise expensive scientific papers in the name of “Information needing to be free”.
 
-For proposition development Liquid Feedback has done a great work and there's nothing much to add or remove. To learn more about it, please refer to their manual [7], as here will be a brief summary relevant for context of this essay.
+* States are too diverse to be categorized. Theoretically it is a structure in which a given population organizes itself and are primarily concerned about internal affairs, external security and the wellbeing of the state itself (whatever it means), but practically speaking, corruption, populism, and the lobbying by special interests are prevailing problems in states that question the basic assumption that it cares first for its population. 
 
-In this system anyone can write a proposal to change anything within postulated domain. First step is to gain sufficient activity among vote-holders within a set timeframe in order to advance to next step, otherwise it is discarded early as irrelevant. This ensures that each proposal that passes first step is worth to discuss about.
-
-Another important factor is how proposals show up for platform users - they are presented as a smartly ordered stream. The point is that it’s impossible to gain attention by "spamming" proposal multiple times by the same group, so that all vote-holders are represented more or less equally at the top (formulas can be found in the Liquid Feedback manual [7]). This solves "loud minority" problem at this stage.
-
-The second step is called discussion phase, the longest of all four steps. The original content of proposal becomes "alternative #1 solution to problem X". During this step users are expected to comment on original proposal to solve the described problem, and the author of alternative #1 solution is expected to cooperate with others to improve its proposal. Obviously at some point disagreement will come and in that case anyone is free to take up initiative and create "alternative #2" solution under the same problem, which also receives comments and is improved alongside. Multiple alternatives are encouraged as that discovers various possible solutions. This phase gives time to problem and solutions to mature before next two voting phases.
-
-Another important factor is that comments are upvote-able and downvote-able, but these votes are relative to user. From user perspective, only the votes of other users he follows himself are taken into account. That elegantly solves both "loud minority" and "populism" problems as lots of users whom no-one follows will have zero impact.
-
-The third step is a verification yes/no vote for each initiative. During that no alternative solution can be edited, but new ones (expectedly resurrection of old versions) can be added. This phase is to deny last second change abuses from authors as supporters need to verify them later and has a chance to resurrect older version of author. In case no alternative solution is verified then initiative closes here and doesn't make it to voting phase.
-
-The fourth phase is preferential voting for the best initiative. All supporters can approve, abstain or disapprove each alternative solution, and optionally rank them too. Then using Schulze method [7] the best of alternatives or status quo wins. Schulze method has been chosen as it fulfills number of desired criterias (see Liquid Feedback paper for interesting details). Among other benefits It ensures that "tactical voting" is eliminated as much possible, so voters can focus on expressing their support instead of tactical considerations. For example, lots of similar suggestions don't hurt each other so initiators are encouraged to express alternative solutions, or voting for probable minority doesn't waste your vote so all supporters are taken into account even if their first priority didn't succeed.
-
-All together, the platform provides an equal ground for everyone to participate and get objective picture of current and past matters. Under assumption that participant uses the platform as primary source of information, it solves "populism" problem as there is no way how to manipulate the content of platform in favor of special interests.
+* International organizations have a clearly set formal that mostly is aligned or doesn't conflict with goals of humanity. Therefore international organizations can be regarded as at least neutrals for humanity.
 
 
-### Participation and delegated voting [REVIEW v1]
 
-In Liquid Feedback there's one vote per participant and the delegated voting (a.k.a. proxy voting). Votes (or parts of them therefor) are owned by agent, but they can be used by himself or delegated to other agent (a.k.a. copying other's vote). Delegation process is very liquid (thus the name of Liquid Feedback), it can be changed at any time, can be specified differently within different domains, and are automatically suspended when agent decides to vote himself in particular incentive. Although each agent *owns* X voting power, he may *yield* a lot more voting power due voluntary delegation by other agents. Gains from this just like with generic "division of labor". As delegator agent may not have expertise in some domains or resources and time in general to participate in each incentive, thus he has a option to delegate his votes to someone with common interests instead of not participating at all.
 
-Vote splitting respects diverse internal affairs of agents. For example, president of a state can keep it for himself (as in monarchies), or evenly distribute within its population (as in democracies). The same works for NGOs or any other agent - it’s up to them how to distribute the vote best. Wide distribution is welcome as it facilitates co-participation and therefore gives responsibility to humanity itself.
+Decision-making
+================================================================================
 
-Vote distribution is simple  in closed communities that has centralized membership status, but in a global community with diverse and fluid amount of agents that is expected to increase it becomes a problem. Therefore for liquid inclusion process we allow registration of any participant, regardless that's a human or entity like NGO or corporation. Such self-registered participants won't own any votes and in combination with above mentioned measures against "loud minorities" they can't harm the system. But what they can do is participate in discussions, propose incentives and even vote in rare cases when someone with voting power has delegated it to them. That would allow any human to participate in humanity's affairs, ensuring the human right to speak and to be heard without undermining sovereignty of global community agents. Also, such mechanism will provide staging grounds where to look for potential new vote-eligible participants.
+A vital part of every governance is the decision-making process. The following chapter describes every aspect of how decisions would be made in the new governance model.
 
-### Dynamic voting power of participants [REVIEW v1]
+Naturally, the decision-making process consists of proposition, discussion, and decision phases. Each of them is facilitated by agents participating in the process. While each agent internally is free to impose any governance model, the interaction between sovereign agents can be only democratic, otherwise they wouldn't be sovereign anymore.
 
-Liquid Feedback sticks to "one participant one vote" rule like democracies does and is designed to consist of humans only, implying that "participants" are all made of flesh-and-bones and are equal in rights and (at least some of) motivations. Also the question of "being the participant or not" is left out of scope.
+I propose to build upon the LiquidFeedback system (defined below) for the development of propositions and decision making. LiquidFeedback assumes the one-agent-one-vote restriction as in democracy, but this excludes the contributions and idea generation from questionable agents, and hence I would propose to relax this restriction. The benefits would still accrue while limiting their impact on decision making. 
 
-I propose to implement Liquid Feedback for not-only-human “agents” with some modifications. When designing democratic process for global community we have various agent types (and frankly none of them is human) that inherently are not equal in rights and motivations, as well are made of diverse structures even within one agent type (i.e. state can be either democratic or monarchy). Despite that we have clear criteria for inclusion of state and nevertheless their amount doesn't change often, it's not clear at all which international institutions, NGOs and corporations should be included, furthermore they rise and fall more frequently than states. I call static approach "one participant one vote" not applicable to this dynamic case.
 
-Consequently, I propose to have dynamic voting power for participants.
 
-First, As a starting point, I propose to give voting power to states only for historic reasons - they are the only ones having voting power currently and that will be least non-controversial at implementation stage. I think that taking all members of UN is a good starting point for states, but it gets complicated for NGOs, corporations and other entities. This model already adds a lot, and hopefully will swiftly enough converge away from statism when born. For example, having the first bunch of initiates about deciding whom of other agent types to include also. Nevertheless, this is an open question and a place for improvement.
 
-Second, to become a vote-eligible participant there should be a consensus on that. Liquid Feedback serves good for these purposes, thus one of the categories within it will be to manage participant list. Just like with any initiative, there has to be an initiator, which closely resembles current way of how new states are recognized. The difference is that there's a possibility to disapprove the initiative, and any entity can be suggested to be added as a participant. The vote threshold for adding or removing entity from participant list should be asymmetric in favor for adding new ones, for example quarter to add and two-thirds to remove. Once recognized, entity should enjoy its status safely as recognized member, similarly with states where it's impossible to de-recognize a state after it has been recognized. The point is that we want many and diverse participants.
+Proposition development process
+----------------------------------------
 
-Third, each participant has his own voting power. I propose to distribute voting power based on contribution to incentives that are decided on within the platform. That would reward actually doing what's agreed on. Also, that proxies the logic of having a stake, because if one cares he contributes nevertheless, and after being recognized by others the ones who care get rewarded. And so the voting power will converge "talkers" that get empowered via delegation and "doers" that get empowered via distribution, leaving freeriders and saboteurs deprived of actual voting power. As everyone is free to read the platform at any moment and discuss incentives or execute results, platform still is democratic as everyone is free to strive to become either a talker or a doer at any moment. I expect that in such platform agents will converge into contributing participants with influence and voting power and harmless bystander participants.
+LiquidFeedback is a platform for writing, discussing, and approving propositions in a democratic manner. It recognizes the drawbacks of today’s democracy, particularly the "loud minority", "illusion of consensus", and "populism" problems. A four-step process is introduced that not only suppresses these problems, but also increases overall proposition quality.
 
-Let's discuss other alternative distributions. As discussed above, "one man one vote" isn't a good option as we have diverse participants, and frankly none of them men or women. Then voting power may be based on “how much and at what quality you contribute in decision making process”, but that's already done via delegated voting under assumption that such entities will get most of delegated votes. Another logic is to distribute based on “how much stake each participant holds”, but because our stake is such vague "humanity" and participant domains of participants nevertheless overlaps, it is impossible even to define measurement so that humanity (included those humans not born yet) are represented equally and fairly.
+For proposition development, Liquid Feedback has done a great work and there's nothing much to add or remove. To learn more about it, please refer to their manual [7], as we present just a brief summary relevant for context in this essay.
 
-The challenge comes at measuring what's done, and that can be measured in either objective or subjective way. I see it impossible to establish universal objective measure for such diverse and unique term "threats and risks to humanity". Therefore I suggest to use a "subjective" measurement where participants either rate or rank their peers. In both cases, the usual way of taking average value as truth criterion would be a disaster for various reasons and biases. To counter some biases and eliminate motivation for tactical voting (i.e. voting not for truth but for own's good) let's employ Drazen Prelec's "Bayesian Truth Serum" method that bases on metaknowledge. It requires that "respondents provide their judgments and also their predictions of the distribution of judgments in a sample of peers", and the answer is average, but with high weights to those answers with accurate metaknowledge and low weights to those answers with bad metaknowledge. According to his paper [8], that is all what is needed about "rewarding truthfulness, and aggregating judgments to discover truth". Exactly what we need to counter political games.
+In this system anyone can write a proposal to change anything within postulated domain. First step is to gain sufficient activity among vote-holders within a set timeframe in order to advance to next step, otherwise it is discarded early as irrelevant. This ensures that each proposal that passes the first step is worth discussion.
 
-Bayesian Truth Serum method is applicable only to questions that can be formed with multi-choice answers. That restriction disallows us to use ranking of peers so we are left with rating of peers. Obviously we will rate the contribution of every peer from "nothing" to "exceptional", and research [4] shows that scales with up to 7 categories performs best. I am aware of importance for questionnaires phrasing, and this obviously is another place of improvement of this essay, but as the starters let me present an example question with answers you can see below.
+Another important factor is how proposals show up for platform users; they are presented as a smartly ordered stream. The point is that it is impossible to gain attention by "spamming" (roughly equivalent to being the loudest in a room and therefore able to dominate) a proposal multiple times by the same group, so that all vote-holders are represented more or less equally at the top, formulas can be found in the LiquidFeedback manual [7]. This solves the "loud minority" problem at this stage.
+
+The second step is called discussion phase, the longest of all four steps. The original content of proposal becomes "alternative #1 solution to problem X". During this step, users are expected to comment on the original proposal to solve the described problem, and the author of “alternative solution #1” is expected to cooperate with others to improve its proposal. Obviously, at some point disagreement will come and in that case anyone is free to take the initiative and create "alternative solution #2" under the same problem, which also receives comments and is improved alongside. Multiple alternatives are encouraged as that discovers various possible solutions. This phase gives time for the problem and solutions to mature before the next two voting phases.
+
+Another important factor is that comments are up-votable and down-votable, but these votes are relative to the user. From the user’s perspective, only the votes of other users he follows himself are taken into account. That elegantly solves both "loud minority" and "populism" problems as lots of users whom no one follows will have zero impact.
+
+The third step is a verification yes/no vote for each initiative. During that, no alternative solution can be edited, but new ones, in particular the resurrection of old versions, can be added. This phase is to deny last second change abuse from authors, as supporters need to verify them later and have a chance to resurrect the older versions. In the case that no alternative solution is verified, then initiative closes here and doesn't make it to voting phase.
+
+The fourth phase is preferential voting for the best initiative. All supporters can approve, abstain or disapprove each alternative solution, and optionally rank them too. Then using Schulze method [7] the best of alternatives or status quo wins. Schulze method has been chosen as it fulfills number of desired criteria. Among other benefits it ensures that "tactical voting" is eliminated as much possible, so voters can focus on expressing their support instead of tactical considerations. For example, lots of similar suggestions don't hurt each other so initiators are encouraged to express alternative solutions. Also, voting for a likely losing argument doesn't waste your vote since all supporters are taken into account, even if their first priority didn't succeed.
+
+Altogether, the platform provides an equal ground for everyone to participate and get objective picture of current and past matters. Under the assumption that a participant uses the platform as primary source of information, it solves the "populism" problem as there is no way to manipulate the content of the platform in favor of special interests.
+
+
+
+
+Participation and vote delegation
+----------------------------------------
+
+A sovereign agent may not have resources, time or expertise in some domains to participate in each initiative. In that case, the platform provides him an option to delegate his votes to someone with common interests instead of not participating at all. Gains from this are just like with generic "division of labor" only replacing labor with, for example, expertise or competence.
+
+In LiquidFeedback there's one vote per participant and it can be delegated, a.k.a. proxy voting. Votes, or parts of them are owned by an agent, but they can be used by himself or delegated to another agent. The delegation process - as is implied in the LiquidFeedback name - is very liquid, can be changed at any time, specified differently within different domains, and is automatically suspended when an agent decides to vote himself in a particular initiative. While each agent owns X voting power, he may wield much more due voluntary delegation by other agents.
+
+Vote distribution is simple in closed communities that have a centralized entity that manages the membership status of its members. But in a global community with a diverse and fluid number of agents, central solution to vote distribution becomes a problem.
+
+For the liquid inclusion process, we allow registration of any participant, regardless of whether it's a human or an entity like NGO or corporation. Such self-registered participants won't own any votes, so they can't harm the system. But what they can do is participate in discussions, propose initiatives and even vote in rare cases when someone with voting power has delegated it to them. This would allow any human to participate in humanity's affairs, ensuring the human right to speak and to be heard without undermining sovereignty of global community agents. Also, such a mechanism will provide staging grounds where to look for potential new vote-eligible participants.
+
+
+
+
+Dynamic voting power of participants
+----------------------------------------
+
+LiquidFeedback sticks to "one participant, one vote" rule like democracy does and is designed to consist of humans only. This implies that agents are all actually people and are equal in rights and perhaps in motivations. LiquidFeedback does not solve participant incorporation problems, but provides a platform for voting. I propose to implement LiquidFeedback for not-only-human agents, with some modifications to how votes are distributed.
+
+As a starting point, I propose to give voting power to states only for historic reasons.They are the only ones that currently have voting power, and that will be the least controversial at the implementation stage. Taking all members of the UN is a good starting point for states, but then how to include the various non-state actors gets complicated; the initial list of non-states is an open question and a place for improvement.
+
+Secondly, consensus should be reached on becoming a vote-eligible participant. Liquid Feedback serves these purposes well, thus one of the categories within it will be to manage the participant list. Just like with any initiative, there has to be an initiator, which closely resembles the current way new states are recognized. The difference is that there's a possibility to disapprove the initiative, and any entity can be suggested to be added as a participant. The vote threshold for adding or removing an entity from the participant list should be asymmetric in favor for adding new ones, for example, a quarter to add and two-thirds to remove. Once recognized, the agent should enjoy its status safely as a recognized participant.
+
+Thirdly, each participant has its own voting power. I propose to distribute voting power based on the contribution to initiatives that are decided upon within the platform. This would reward actually doing what's agreed upon. Also, this proxies the logic of having a stake, because if one cares one contributes nevertheless, and after being recognized by others, the ones who care get rewarded. As such the voting power will converge "talkers" that get empowered via delegation and "doers" that get empowered via distribution, leaving freeriders and saboteurs deprived of actual voting power. As everyone is free to read the platform at any moment and discuss initiatives or execute results, the platform is still democratic, as everyone is free to strive to become either a talker or a doer at any moment. I expect that in such a platform, agents will converge into contributing participants with influence and voting power and harmless bystander participants.
+
+
+
+
+Measurement of contribution
+----------------------------------------
+
+The challenge comes when measuring what is done, and that it can be measured in either an objective or subjective way. In my opinion it is impossible to establish universal objective measure for such a diverse and unique term as "threats and risks to humanity". Therefore, I suggest to use a subjective measurement where participants either rate or rank their peers. In both cases, the usual way of taking average value as truth criterion would be a disaster for various reasons and biases. To counter some biases and eliminate motivation for tactical voting, i.e. voting not for truth but for your own good, let's employ Drazen Prelec's "Bayesian Truth Serum" method that is based on metaknowledge. It requires that "respondents provide their judgments and also their predictions of the distribution of judgments in a sample of peers" [8], and the result is an average with a higher weighting for those answers with accurate metaknowledge of others’ answers and a lower weighting for those answers with bad metaknowledge. According to his paper [8], that is all which is needed for "rewarding truthfulness, and aggregating judgments to discover truth". This is exactly what is needed to counter political games.
+
+The Bayesian Truth Serum method is applicable only to questions that can be formed with multiple choice answers. This restriction disallows us to use ranking of peers so we are left with rating of peers. As such, the contribution of every peer is rated from "nothing" to "exceptional". Research shows that scales with up to 7 categories performs best [4]. It is important to be aware of the phrasing of the questionnaire, and this is another area of improvement for this essay, but to begin, let me present an example question with answers you can see below.
 
 ```
 Please rate member "X" contribution to implementation of decisions made within LiquidHumanity platform:
-	1. Extraordinary contribution.
-	2. High quality/amount of contribution that exceed above-the-average commitment.
-	3. Appropriate contribution that matches above-the-average commitment.
-	4. Appropriate contribution that matches commitment.
-	5. Some contribution but less than committed.
-	6. Put great effort but without appropriate contribution.
-	7. No effort nor usefull contribution.
+
+1. High quality/amount of contribution that exceeds above-average commitment.
+2. Appropriate contribution that matches above-average commitment.
+3. Appropriate contribution that matches commitment.
+4. Some contribution but less than commitment.
+5. Put great effort but without appropriate contribution.
+6. No effort nor useful contribution.
+7. Net harmful contribution.
 ```
 
-The rating would proceed as follows. At regular intervals (i.e. 2 years), all participants come together to perform voting physically, or probably don't come together and do it digitally. Each participant answers the question and provides expected distribution of answers for each peer. This voting is done anonymously in order to prevent "witch hunting" and coalitions. Then all the answers are processed according to Bayesian Truth Serum method (more details on this at implementation chapter below) to get a result - each participant has his category. Then, according to category voting power is distributed. For example, #1 category gets 100%, #2 - 80%, #3 - 60%, #4 - 45%, #5 - 30%, #6 - 15%, #7 - 5%. The exact mapping of category to voting power is open for improvements. Then for the next period, each participant owns a new amount of voting power.
+The rating would proceed as follows; At regular intervals, eg. 2 years, all participants perform voting either physically, or digitally. Each participant answers the questions and provides an expected distribution of answers for each peer. This voting is done anonymously in order to prevent “witch hunting” and coalitions. Then all the answers are processed according to the Bayesian Truth Serum method, more details at implementation chapter below, to get a result - each participant has their own category. Then, according to category voting, power is distributed. For example, category #1 gets 100%, #2 - 80%, #3 - 60%, #4 - 45%, #5 - 30%, #6 - 10%, #7 - 0%. Then for the next period, each participant owns a new amount of voting power.
 
-Trustworthy and constructive agents are empowered via vote delegation, and effective decision implementators are empowered via vote distribution. Tactical saboteurs are recognized via transparency and remembered via history. That together should create virtuous loop to empower collaborative agents and neutralize revealed selfish saboteurs.
+Furthermore, we offer each participant the ability to split his vote further if he wishes to do so. This optional feature respects diverse internal affairs of agents. For example, the head of a state can keep it for himself, as in monarchies, or evenly distribute within its population, as in democracies. Wide splitting is welcome as it facilitates co-participation and therefore gives responsibility to humanity itself.
 
-
-
-Enforcement [REVIEW v1]
--------------------------------------------------------------------------------
-> Target: 500 words
-
-For enforcement, I see 4 setups to organize enforcement:
-
-1. Each member holds power to harm/destroy other members and everyone is intimated to behave by collective threats to execute this power
-2. A special entity holds the power mentioned above instead of each individual
-3. there is some common good that is shared among members and everyone is intimated to behave by threats to be denied to this good
-4. there is a straightforward public feedback on member actions and everyone is intimated to behave by peer pressure
-
-For enforcement, I see that fourth option, the peer pressure mechanism emerges naturally out of everything discussed so far. First, everyone is free to observe agent's decisions, involvement and attitude within the proposition platform and everyone has a straightforward measurement of agent's contributions to humanity from the rating. There's an inherent reward: agent's want to contribute either via constructive discussions to hold more delegated votes, and to contribute directly to implementation of decisions to gain higher rating and thus own more votes.
-
-My axiom is that at least some of these agents are good in a sense that they wish humanity to prosper and is willing to contribute towards that. The reason is simple - if that's not true, any democratic process will fail (and we should resort to tyrannical methods in hopes that leader itself will be benevolent and be capable to purge the majority). In case of this proposal, the platform will turn out very empty-worded with little of practical use, or rather very biased towards the special interests of some agent. In such worst case the platform with all its transparency and inclusion will serve as a reality-check mirror for those who bothers to look into it. The good news is that the down-side is shallow and soft, if not a bit beneficial.
-
-Given that at least some of agents are good in their nature, we have to turn to game theory for discussion. From Axelrod's book "The evolution of cooperation" we can have three important takeaways. First, for trust and cooperation to evolve the milestones of nurturing environment are repeat interactions, low miscommunication and possible win-wins. We have repeat interactions granted as the world is connected more than ever. Organized communications between more than hundred parties always has been a challange and Liquid Feedback structured process covers that this part. But possible win-wins is hard to assume in the great diversity of agents, therefore via distribution of vote power we increase the leverage of good cooperating agents over others.
-
-One may wonder why agent should care about this system at all and wouldn't ignore it instead. That's a very valid point, because proposed system indeed is a closed loop by design. For that matter, I would like to highlight again the importance of rating. In the end, the amount of owned votes plus deleged votes held by an agent can be his ultimate score. That is simple and finally measurable. Simplicity is a great virtue, especially when dealing with masses, like humans that make up "humanity". For humans within democracies I expect they will demand their government to have a good rating.For humans as consumers I hope they will prefer corporations with better rating. For agents dealing in global affairs I expect them to take into account the rating of involved parties. For institutions like European Union I expect them to advocate high ratings. For everyone who want to see context and attitude is welcome to read through agent's history of activity in platform. As a platform providers we have the responsibility to both develop platform in terms of features and amount of active participants, as well promote the rating and results of them.
-
-
-
-Required technology and resources [REVIEW]
--------------------------------------------------------------------------------
-> Target: 700 words
-
-Technically, the proposed governance model assumes that each agent has access to computer and internet, which nowadays is widespread enough. Besides that, we already have all technology available to make it happen, and only two specific technological implementations are neccessary:
-
-* Modified LiquidFeedback for proposal platform. Currently LiquidFeedback platform is already implemented and working, but it requires additional improvement to functionality as discussed above, as well a modern user interface overhaul.
-* Cryptographic solution for anonymous but validable rating. [peteris help! Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse]
-
-As a improvement in the long run I see at least two technological upgrades. First is to re-implement LiquidFeedback on the blockchain. The decentralized nature of blockchain would greatly benefit the platform because any central authority that has control over the platform would undermine the decentralized nature of neomedievalism itself. Although it could be ok to form a entity dedicated to hold this platform for a while until it is re-implemented in a decentralized way, I don't see agents buying centralization in the long term. Second is external decentralized identity management. Currently identity management is clustered where mostly states holding the registries of both citizens, incorporated firms and NGOs that also yields several restrictions. Over first years while platform matures, I see entities (human or not) to endorse their legitimacy with profiles on the platform, but that gets tricky to integrate without standardized identity management solution. Already there are emerging various solutions (humaniq.co, bitnation.co, and others) and we should keep our eyes open for the most prominent or at least compatible one for platform.
-
-
-
-Roadmap [DRAFT]
--------------------------------------------------------------------------------
-> Target: 500 words
+Trustworthy and constructive agents are empowered via vote delegation, and effective decision implementers are empowered via vote distribution. Tactical saboteurs are recognized via transparency and remembered via history. Together this should create a virtuous loop to empower collaborative agents and neutralize the revealed selfish saboteurs.
 
 
 
 
+Enforcement
+----------------------------------------
+
+There are several forms of enforcement organization. Out of everything discussed so far, the peer pressure approach fits in naturally. Peer pressure means that there is a straightforward public feedback on member actions and everyone is encouraged to behave by pressure of peers.
+
+Everyone is free to observe an agent's decisions, involvement and attitude within the proposition platform. As such, everyone has a straightforward measurement of an agent's contributions to humanity from the rating. There's an inherent reward, agents want to contribute either via constructive discussions to hold more delegated votes, or to contribute directly to implementation of decisions to gain higher rating and thus own more votes.
+
+My axiom is that at least some of these agents are good in a sense that they wish humanity to prosper and are willing to contribute towards that. The reason is simple, if that's not true, then any democratic process will fail, and we should resort to tyrannical methods in hopes that the leader itself will be benevolent and be capable to purge the majority. In this worst case scenario the platform will turn out very empty-worded with little or no practical use, or rather very biased towards the special interests of some agent. In such a case, the platform with all its transparency and inclusion will serve as a reality-check mirror for those who bother to look into it. The good news is that the down-side is shallow and soft, if not even a bit beneficial.
+
+Given that at least some of the agents are good in their nature, game theory tells us that within such platform cooperative agents will keep cooperating and have mutual gains from it. From Axelrod's book "The evolution of cooperation" [6] there are three important takeaway points. First, for trust and cooperation to evolve there are three milestones of nurturing environment: repeat interactions, low miscommunication, and possible win-wins. Repeated interactions are possible, as the world is more connected than ever. Organized communications between more than a hundred parties has always been a challenge and Liquid Feedback’s structured process covers this part. The possible win-wins are hard to predict in the great diversity of agents. Although good agents will gain a greater effectivity for their efforts from structured decision-making, not so altruistic oriented agents will seek to play along in order to have a decent rating. Nevertheless, via distribution of vote power, we increase the leverage of good cooperating agents over other agents.
+
+One may wonder why an agent should care about this system at all and wouldn't simply ignore it instead. I would like to highlight again the importance of rating of participants. In the end, the amount of owned votes plus delegated votes held by an agent can be his ultimate score. This is simple and measurable. Simplicity is a great virtue, especially when dealing with masses, like humans. For humans within democracies, I expect they will demand their government to have a good rating. For humans as consumers, I hope they will prefer corporations with better rating. For agents dealing in global affairs, I expect them to take into account the rating of involved parties. For institutions like European Union, I expect them to advocate high ratings. Everyone who wants to see the context and attitude is free to read through an agent's history of activity within the platform. As the platform providers we have the responsibility to both develop the platform in terms of features and number of active participants, as well as promote their ratings and results.
+
+One may also wonder why a coalition with enough voting power wouldn’t unilaterally invite 1000 proxy participants of themselves and swarm the platform. Platform is immune to such tactic and the answer lies in both vote delegation process and the properties of Bayesian Truth Serum method. First, the coalition that executes such tactic would obviously lose all delegated votes from non-coalition participants and are left only with their own votes. Second, if they still have enough votes, they can unilaterally invite new participants that will own zero voting power just like any new participant. In a transparent platform and under the eyes of all the world such ongoing event can’t pass unnoticed, so that’s a common knowledge during the next rating. Then, if coalition will vote for the new proxy agents a false rating (eg. more than “he did nothing”) they will fall in everyone’s expectations and would undermine any impact of their own casted rating, so leaving proxy agents still without any votes and possibly themselves, too. If coalition vote for proxy agents a truthful rating (eg. “he did nothing”) the proxy agents will still have no voting power, but that would fail the expectations of others and therefore muddle the overall rating results. In both cases, proxy agents don’t get any voting power.
 
 
 
 
-Example [DRAFT]
--------------------------------------------------------------------------------
-> Target: 300 words
+Required technology and resources
+----------------------------------------
+
+The proposed governance model assumes that each agent has access to a computer and the internet. Besides that, we already have all the technology available to make it happen, and only two specific technological implementations are necessary:
+
+* Modified LiquidFeedback for proposal platform. Currently, the LiquidFeedback platform is already implemented and working, but it requires additional improvement to functionality as discussed above, as well as a modern user interface overhaul.
+
+* Cryptographic solution for anonymous but validable rating. Given that all vote holders are large and influential there is no need for a secure computer system and rating can be handled by conventional methods like physical assembly. However, once the number of agents in the system increase, this can become unmanageable. A theoretical method to compute arbitrary operations on encrypted data is known as homomorphic encryption [9]. Although it is a very slow encryption method the computation of ratings is simple. Also the rating procedure will be done rarely, making it practically applicable.
+
+As an improvement in the long run I see at least two technological upgrades. Firstly, re-implement LiquidFeedback on the blockchain. The decentralized nature of blockchain would greatly benefit the platform because any central authority that has control over the platform would undermine the decentralized nature of neomedievalism itself. Although it could be acceptable to form an entity dedicated to holding this platform for the short term until it is re-implemented in a decentralized way, I don't see agents accepting centralization in the long term.
+
+Secondly, an external decentralized identity management. Currently, identity management is clustered where mostly states are holding the registries, of both citizens, incorporated firms and NGOs, that also yields several restrictions. Over the first years while the platform matures, I see entities endorsing their legitimacy with profiles on the platform, but that gets tricky to integrate without a standardized identity management solution. Already there are various solutions emerging, like humaniq.co, bitnation.co and others, and we should keep our eyes open for the most prominent one for the platform.
 
 
 
 
-How the model meets the assessment criteria [DRAFT]
-===============================================================================
-> Assessment criteria (2750 words max) - Entries will be assessed based on how well they can be expected to manage global challenges and meet the criteria listed below:
+Vision in examples
+----------------------------------------
 
-... some intro words ...
+For a clearer understanding of the possible future in the new world order, here are some examples that represent: the governance model at its starting point, platform dynamics and the platform’s lifecycle of a problem.
+
+### Governance model at its starting point
+
+The governance model starts with roughly 200 states, and their first decision on table is to invite and approve in bulk roughly another 200 NGOs, 200 Corporations, and all relevant international institutions. After that any sovereign agent can be added, or removed given higher thresholds, if someone makes an initiative for it and successfully passes the normal decision-making process.
+
+### Platform dynamics
+
+Let’s imagine that we are in the future, where the new governance model has been completely accepted and implemented. First and foremost, there are agents themselves, who are not the most active at initiating or discussing initiatives, but vigilantly votes on them. Except for NGOs, who in addition also work in 3 shifts to propose and finetune all their initiatives. It is expected that most initiatives sink as irrelevant, without passing the first step, only to be resurrected years later when more urgent initiatives will be decided on and the platform has gathered more collective attention and decision power.
+
+Secondly, there are opinion leaders, like research centers and universities, that have already gathered a great number of followers due their qualitative activity within the platform. Several of them even wield some voting power due to delegations from a few agents, although they don’t own any themselves.
+
+And thirdly, the remaining 98% is “the crowd”. This consists of local public figures, activists, observers, citizens of lucky democracies with miniscule voting power, and any other human that has signed up. Although they are very immature, most of them are already looking to become opinion leaders. The harsh anti-spam, a.k.a. anti-futility, measures of the platform will distill the best out of them. Slowly over time, the crowd will form most of the platform’s total collective attention and decision power. Effectively, agents will have crowdsourced proposition development process, leaving themselves only decision-making on already well-written, all-round discussed initiatives. Democracies may even have crowdsourced the decision-making part, for better or worse.
+
+### Lifecycle of a problem
+
+An example of a problem’s lifecycle is as follows; An NGO “ClearWater” wants to dig 100 wells in Africa to provide clean water. So it creates an initiative describing lack of clear water problem together with its draft of solution.
+
+Firstly, it has a week to gather enough activity to consider this problem worthwhile. Fortunately or not, exposure of initiative to other’s “new initiative” streams are determined by the platform to provide equal ground for all initiatives. As such an NGO can sit back and see if enough vote-holders care about it. If after 5 days it receives the required level of activity, it proceeds to the discussion phase. Now the NGO works hard to thoroughly lay out the proposal while taking into account some of upvoted comments.
+
+Then one of those commenters who was ignored by NGO’s first alternative, copied it into a new alternative and went into different direction of thought that attracted other commenters. Meanwhile, out of nowhere pops up a third alternative about deploying devices that extract moisture out of air at fraction of costs and maintenance, but copy/pasted NGO’s financing model, and was initiated by a not well known person. Understanding great gains, NGO duplicates the alternative under its name to add its reputability to it. In the next validation phase, vote-holders validated all four alternatives but no one else’s got any traction. After that, vote-holders voted in their preferences among the alternatives, resulting in the fourth alternative winning.
+
+The NGOs supporters are satisfied, because the problem was solved with twice the wells at half the cost, but the initiative manager was unhappy due to his attachment to his idea and personal quest to drive it through. The system ensures that humanity’s interests have far greater weight than special interests. Nevertheless, the project leader played an important role by bringing up the problem and writing a decent financing model used by the winning alternative.
+
+Let’s say that the initiative includes that an agent called “AfricaCompanyTwo” who has pledged to sponsor it within given deadlines. Unfortunately, when deadlines came around AfricaCompanyTwo didn’t keep up the promise to give finances despite the fact that the initiator of the third alternative has done all of his part. In order not to fail the initiative, ClearWater turns to AfricaCompanyNine, based on its clear history within platform for financial help, that also supports the initiative. The initiative turns out successful even though it is a bit late. When it is time for next rating, agents consider their votes taking into account recent events. AfricaCompanyTwo is now downrated to worse rating, while AfricaCompanyNine keeps a great rating.
 
 
-### Specific global challanges [DRAFT]
 
-By saying “global challenges” each one of us defines different problems. And to come to mutual understanding, let’s get more specific with global challenges. Below is a list of current and future risks and problems in order of importance made by a recent research [1]:
+(Disclaimer: All examples/thresholds/deadlines are fictitious.)
+
+
+
+
+
+
+How the model meets the assessment criteria
+================================================================================
+
+
+
+
+Specific global challenges
+----------------------------------------
+
+Current goal of solving “the most pressing threats and risks to humanity” is quite generic, there it would be great to understand what kind of these problem there are currently that may be interpreted differently. To come to mutual understanding of what it hides within, and through what lens the governance model will be evaluated, let’s get more specific with the goal. For that I have chosen the list of top ten current problem to humanity by Benjamin Todd over UN list and others for its practical applicability for evaluation. Below is a list of current and future risks and problems in order of importance made by his recent research [1]:
 
 1. Risks from artificial intelligence
 2. Promoting effective altruism
@@ -287,101 +280,98 @@ By saying “global challenges” each one of us defines different problems. And
 9. Land use reform
 10. Smoking in the developing world
 
-UN Sustainable Development Goals[3]:
+As we can see, these challenges are very diverse - they are both direct and meta problems, external and internal to humanity, old and new problems, well-marketed and underexposed problems, as well as they are ranging across variety of disciplines. Does the platform address all of them equally good?
 
-1. End poverty in all its forms everywhere
-2. End hunger, achieve food security and improved nutrition and promote sustainable agriculture
-3. Ensure healthy lives and promote well-being for all at all ages
-4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all
-5. Achieve gender equality and empower all women and girls
-6. Ensure availability and sustainable management of water and sanitation for all
-7. Ensure access to affordable, reliable, sustainable and modern energy for all
-8. Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all
-9. Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation
-10. Reduce inequality within and among countries
-11. Make cities and human settlements inclusive, safe, resilient and sustainable
-12. Ensure sustainable consumption and production patterns
-13. Take urgent action to combat climate change and its impacts
-14. Conserve and sustainably use the oceans, seas and marine resources for sustainable development
-15. Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss
-16. Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels
-17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
-
-As we can see, these challanges are very diverse - they are both direct and meta problems, both external and internal to humanity, both old and new problems, both well-marketed and underexposed problems, as well they are ranging across variety of disciplines. ...
+Second and third problems are so called meta-problems, in a sense that they don’t directly solve threatening problems. But they are essential to understand which problems are most threatening, as well to make sure that resources are effectively deployed towards them. The core goal of the new governance model is exactly the second part of that: to organize global debate on what’s important, promote the best possible solution for that and rewards the actual execution of what’s agreed on. Although the quality of this process depends on qualitative global research, that part per se is out of scope for the governance model, except deciding whenever to allocate more or less resources to it. As for other problems, it will serve as a support that is agnostic of what problem it is agreeing on. 
 
 
 
 
-(1.) Core Values. [DRAFT]
--------------------------------------------------------------------------------
-> Decisions within the governance model must be guided by the good of all humankind and by respect for the equal value of all human beings.
+(1.) Core Values
+----------------------------------------
+
+The core values of the proposed governance model are:
+
+* Equal value of all human beings: everyone is treated equally regardless his ancestry, race, religion or other characteristics. The platform is rather meritocratic in sense that it empowers those who contributes the most value.
+* Democratic values and human rights promotion: the governance model is built around the notion to serve the humanity and rewards anyone who does so.
+* Transparency and trust: the platform itself is built bottom-up to be transparent and encourages participants to behave in transparent manner, that is one of requirements for trust to prosper.
+* Growth and positive feedback: the governance model is dynamic as it has processes that reward or punish participants based on their actions.
 
 
 
 
+(2.) Decision-Making Capacity
+----------------------------------------
 
-(2.) Decision-Making Capacity. [DRAFT]
--------------------------------------------------------------------------------
-> Decision-making within the governance model must generally be possible without crippling delays that prevent the challenges from being adequately addressed (e.g. due to parties exercising powers of veto).
-
-
-
-
-
-(3.) Effectiveness. [DRAFT]
--------------------------------------------------------------------------------
-> The governance model must be capable of handling the global challenges and risks and include means to ensure implementation of decisions.
+During the proposition process each step has well-defined length and clear deadlines, that alone eliminates the option to halt or veto the process. Except when consensus invalidates all alternative solutions in case none of them are satisfactory. In that case it should be halted nevertheless, only to be raised again later by somebody else with a new proposal.
 
 
 
 
+(3.) Effectiveness
+----------------------------------------
 
-(4.) Resources and Financing. [DRAFT]
--------------------------------------------------------------------------------
-> The governance model must have sufficient human and material resources at its disposal, and these resources must be financed in an equitable manner.
+The offered governance model (LiquidFeedback platform) is able to solve global problems and raise attention to the risks that have the following attributes:
 
-
-
-
-
-(5.) Trust and Insight. [DRAFT]
--------------------------------------------------------------------------------
-> The trust enjoyed by a successful governance model and its institutions relies on *transparency* and considerable insight into power structures and decision-making.
+1. The LiquidFeedback process is agnostic to themes, geography and other constraints, to ensure equal opportunities to any initiative. Discussion of submitted initiatives can solve a local problem; For example, an initiative to ban smoking in public places, within a specific county. An initiative can also solve a regional or global problem; For example, an initiative for the containment of harmful waste in industrialized countries.
+2. The proposed governance model is capable of ensuring the execution of decisions, as the actions of members of the LiquidFeedback platform, as well as the decision-making process, are publicly traceable and historically verifiable. The driving factor in this case is an international reputation, which is essential for both countries and non-governmental organizations, consortia and other agents.
+3. Trustworthy and constructive agents are empowered via vote delegation, and effective decision implementers are empowered via vote distribution. Tactical saboteurs are recognized via transparency and remembered via history. Together this should create a virtuous loop to empower collaborative agents and neutralize the revealed selfish saboteurs.”
 
 
 
 
+(4.) Resources and Financing
+----------------------------------------
 
-(6.) Flexibility. [DRAFT]
--------------------------------------------------------------------------------
-> In order to be able to fulfil its objectives effectively, a successful governance model must contain mechanisms that allow for revisions and improvements to be made to its structure and components.
+We already have all the technology available to make it happen, and only two specific technological implementations are necessary that should cost in range of two average IT projects. In total, the majority of costs would be marketing and raising the awareness, which nevertheless would have been for any kind of project.
 
+Maintenance expenses are also low as it takes only a server and few admins to keep it running. The main cost would be marketing and promotion of rating to global community, but that is variable according to available budget and nevertheless at least partly open-sourceable.
 
-
-
-
-(7.) Protection against the Abuse of Power. [DRAFT]
--------------------------------------------------------------------------------
-> A control system must be in place to take action if the organization should overstep its mandate, e.g. by unduly interfering with the internal affairs of nation-states or favouring the special interests of individuals, groups, organizations, states or groups of states.
+The financing should come as public donations from participants as it is to their best interest to sustain a cooperative platform for themselves.
 
 
 
 
+(5.) Trust and Insight
+----------------------------------------
 
-(8.) Accountability. [DRAFT]
--------------------------------------------------------------------------------
-> It is a fundamental requirement of a successful governance model that it performs the tasks it has been charged with, and the governance model must include the power to hold the decision-makers accountable for their actions.
+Power structure, or rather vote distribution between participants and a graph of their delegations, is subject to transparency and always publicly available information.
+
+The decision-making process, or rather all activity within the platform, also is subject to transparency and always publicly available information.
+
+Any human is free to join, express his opinion and grow into opinion leader. Or witness anyone else who does so. Such inclusion would only benefit the trust into governance model.
+
+“Everyone is free to observe an agent's rating, decisions, involvement and attitude within the proposition platform. As such, everyone has a straightforward measurement of an agent's contributions to humanity from the rating. 
 
 
 
 
+(6.) Flexibility
+----------------------------------------
+
+The improvements to governance model itself is subject to the same proposition and decision processes as any other question. Obviously, such category would have higher thresholds and longer steps, but other than that all participants will use the same process they are already used to.
 
 
 
 
-References [DRAFT]
-===============================================================================
+(7.) Protection against the Abuse of Power
+----------------------------------------
 
+The proposed governance model doesn’t take nor assume any mandate at all. No participant gives up any of his sovereignty. Instead, it coordinates participants with respect to their own sovereignty and internal affairs.
+
+
+
+
+(8.) Accountability
+----------------------------------------
+
+Questions on human resources and public figures are subject to the same proposition and decision processes as any other question. Arguably such category will have other thresholds and lengths of steps, but other than that the participants themselves are responsive to decide on these questions, or rather decide on some person that manages it on their behalf.
+
+
+
+
+References
+================================================================================
 
 [1] Benjamin Todd, the CEO of 80,000 Hours, https://80000hours.org/career-guide/world-problems/
 
@@ -399,53 +389,12 @@ References [DRAFT]
 
 [8] Prelec, D., & Seung, S. (2006). An algorithm that finds truth even if most people are wrong. Unpublished manuscript.
 
+[9] Gentry, C. (2009). A fully homomorphic encryption scheme. Stanford University.
 
 
 
-Attachments [DRAFT]
-===============================================================================
+
+Attachments
+================================================================================
+
 > max 2 illustrations
-
-
-
-
-
-
-
-
-Apendixes (not to be submitted)
-===============================================================================
-
-
-
-Apendix 1
--------------------------------------------------------------------------------
-
-
-Westphalian order, the current Global order, codified into International Law, is based on basic principle - states are the only sovereign agents in global politics. As long states are sovereign, and there are no other sovereign, Westphalian order is considered strong. Of course, states are allowed to come together and make international institutions, and make pledges or even surrend part of its sovereigncy to the international institutions, like Internation Criminal Court or United Nations itself. But in last decades Westphalian order has been weak and is slowly breaking down further due to many reasons:
-
-1. **Takeover of International institutions** - blahblahblah
-2. **Rise of corporations** - blahblahblah
-3. **Downfall of state integrity** - blahblahblah
-4. **Broken state's monopoly on military** - blahblahblah
-5. **Birth of NGOs** - blahblahblah
-6. **Unilateral interventions** - blahblahblah
-
-
-Apendix 2: Hedlay Bull excerpts
--------------------------------------------------------------------------------
-
-
-Hedlay Bull: To say of a number of things that together they display *order* is, in the simplest and most general sense of the term, to say that they are related to one another according to some pattern, that their relationship is not purely haphazard but contains some discernible principle.
-
-Hedley Bull: *First*, all societies seek to ensure that life will be in some measure secure against violence resulting in death or bodily harm . *Second*, all societies seek to ensure that promises , once made, will be kept , or that agreemen ts, once undertaken , will be carried out . *Third*, all societies pursue the goal of ensuring that the possession of things will remain stable to some degree, and will not be subject to challenges that are constant and without limit.
-
-Hedley Bull: *States* are independent political communities each of which possesses a government and asserts sovereignty in relation to a particular portion of the earth's surface and a particular segment of the human population. ... On the one hand, states assert, in relation to this territory and population, what may be called *internal sover­eignty*, which means supremacy over all other authorities within that territory and population. On the other hand, they assert what may be called *external sovereignty*, by which is meant not supremacy but independence of outside authorities.
-
-Hedley Bull: A *society of states* (or international society) exists when a group of states, conscious of certain common interests and common values, form a society in the sense that they conceive themselves to be *bound by* a *common set of rules* in their relations with one another, and share in the working of *common institutions*. If states today form an international society (to what extent they do is the subject of the next chapter), this is because, recognising certain common interests and perhaps some common values, they regard themselves as bound by certain rules in their dealings with one another, such as that they should respect one another's claims to independence, that they should honour agreements into which they enter, and that they should be subject to certain limitations in exercising force against one another. At the same time they co­operate in the working of institutions such as the forms of procedures of international law, the machinery of diplomacy and general international organisation, and the customs and conven­tions of war.
-
-Hedley Bull: *First*, there is the goal of preservation of the system and society of states itself. Modern states have been united in the belief that they are the principal actors in world politics and the chief bearers of rights and duties within it. *Second*, there is the goal of maintaining the independence or external sovereignty of individual states. From the perspective ofThe Concept of Order in any particular state what it chiefly hopes to gain from participation in the society of states is recognition of its independence of outside authority, and in particular of its supreme jurisdicti on over i ts subjects and territory. The chief price it has to pay for this is recognition of like rights to independ ence and sovereignty on the part of other states. *Third*, there is the goal of peace. By this is meant not the goal of establishing universal and permanent peace, [.. but] What states seek to make secure or safe is not merely peace, but their independence and the continued existence of the society of states itself which that independence requires. *Fourth*, it should be noted that among the elementary or primary goals of the society of states are those which, at the beginning of this chapter, were said to be the common goals of all social life: limitation of violence resulting in death or bodily harm, the keeping of promises and the stabilisation of possession by rules of property. The goal of *limitation of violence* is represented in international society in a number of ways. States co-operate in international society so as to maintain their monopoly of violence, and deny the right to employ it to other groups. The goal of the *keeping of promises* is represented in the principle 'pacta sunt ser vanda'. Among states as among individuals, co­operation can take place only on the basis of agreements, and agreements can fulfil their function in social life only on the basis of a presumption that once entered into they will be upheld. The goal of *stability of possession* is reflected in international society not only by the recognition by states of one another's property, but more fundamentally in the compact of mutual recognition of sovereignty, in which states accept one another's spheres of jurisdiction: indeed, the idea of the sovereign ty of the state derived historically from the idea that certain territories and peoples were the property or patrimony of the ruler.
-
-
-
-Hedley Bull: *'Supra-state' actors* such as, in the sixteenth and seventeenth centuries, the Papacy and the Holy Roman Emperor, or, in the twentieth century, the United Nations (one thinks especially of its role as a violent actor in the 1 960- 1 Congo crisis) present such a threat. *'Sub-state' actors* which operate in world politics from within a particular state, or *'trans-state' actors* which are groups cutting across the boundaries of states, may also challenge the privileged position of states in world politics, or their right to enjoy it; in the history of modern international society the revolutionary and counter-revolutionary manifestations of human solidarity engen­dered by the Reformation, the French Revolution and the Russian Revolution are principal examples.
